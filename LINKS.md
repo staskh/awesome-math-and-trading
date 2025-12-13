@@ -10,3 +10,5 @@ Focus on classical math, theory of probablility, statistics and machine learning
 A lot of Soviet Mathematics books (Kolmogorov, Zeldovich, Gnedenko and others).
 All books are available for free in PDF.
 🔥🔥🔥🔥🔥
+
+* [PlamenStilyianov / FinMathematics](https://github.com/PlamenStilyianov/FinMathematics/) Very large collection of PDF versions for books published before 2010
