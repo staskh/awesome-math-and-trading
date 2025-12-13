@@ -7,7 +7,7 @@
 Easy tounderstand, but still in depth, intoduction of option pricing, Black-Scholes Model (with a proof!)
 [PDF Version](https://github.com/PlamenStilyianov/FinMathematics/blob/master/The%20Mathematics%20Of%20Financial%20Derivatives.pdf)
 
-*  [An Introduction to Computational Finance Without Agonizing Pain (Free PDF)](https://cs.uwaterloo.ca/~paforsyt/agon.pdf) _by Peter Forsyth_ (2022)
+* :soon: [An Introduction to Computational Finance Without Agonizing Pain (Free PDF)](https://cs.uwaterloo.ca/~paforsyt/agon.pdf) _by Peter Forsyth_ (2022)
   
 # Machine Learning
 
