@@ -1,18 +1,15 @@
-# Useful Links
-
-* [Options Pricing](https://optionalpha.com/topics/options-pricing) A complete guide to options contract pricing, intrinsic and extrinsic value, the Black-Scholes model, and more.
-
 # Links Collections
 
-* [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) 
-Quant/Algorithm trading resources with an emphasis on Machine Learning. 
+* 🔥[An anthology of open access data science materials](https://anthology-of-data.science/books.html) An excellent collection of open access books on Data Science and Machine Learning
 
-* [Awesome_Math_Books](https://github.com/valeman/Awesome_Math_Books)
+* 🔥[Awesome_Math_Books](https://github.com/valeman/Awesome_Math_Books)
 Curated list of Math book by [Valery Manokhin](https://valeriy.ai/). 
 Focus on classical math, theory of probablility, statistics and machine learning.
 A lot of Soviet Mathematics books (Kolmogorov, Zeldovich, Gnedenko and others).
 All books are available for free in PDF.
-🔥🔥🔥🔥🔥
+
+* [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) 
+Quant/Algorithm trading resources with an emphasis on Machine Learning. 
 
 * [PlamenStilyianov / FinMathematics](https://github.com/PlamenStilyianov/FinMathematics/) Very large collection of PDF versions for books published before 2010
 
