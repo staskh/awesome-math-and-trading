@@ -29,6 +29,11 @@ The book adopts a hands-on, practical approach to teaching statistical learning,
 * 🔥🔥🔥🔥🔥 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://amzn.to/48T6EjY) _By Trevor Hastie, Robert Tibshirani, Jerome Friedman_ (2009)
 While ISLP focused  on hands-on approach, this book provides in depth mathematical considerations behind statistical learning.
 
+* [Forecasting: Principles and Practice (3d ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
+  * [Free Online Version (with videos)](https://otexts.com/fpp3/)
+  * [Lectures Videos (YouTube)](https://www.youtube.com/playlist?list=PLyCNZ_xXGzpm7W9jLqbIyBAiSO5jDwJeE)
+  * [Forecasting: Principles and Practice, the Pythonic Way](https://otexts.com/fpppy/) - Python version of above, no videos. Free Online version.
+
 * [Advances in Financial Machine Learning](https://amzn.to/3KG34Sp) _By Marcos M. LŁpez de Prado_
   * [Associated Code & Exersises](https://github.com/fernandodelacalle/adv-financial-ml-marcos-exercises/tree/master)
  
