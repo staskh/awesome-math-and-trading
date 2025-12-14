@@ -1,13 +1,21 @@
 # Financial Mathematics
 
 * 🔥🔥🔥🔥🔥 [The (mis) Behavior of Markets](https://amzn.to/49aGpXy) _By Benoit Mandelbrot_(2004)
-  One of the best and easy to understand stock market theory books written not by trader, but one of the century's most influential mathematicians! Main point - existing financial math theories based on normal distribution are not good fit for real maket (mis)behaviour. As an inventor of "Fractal Geometry", Mandelbrot claims taht it would be a better tool to describe market behaviour, but gave no ready to use solutions.
+  This is one of the best and easiest to understand books about stock market mathematical theories. It was written by one of the most important mathematicians of the last century, not a trader. The main point is that current financial math theories that use normal distribution don't work well with how the market actually behaves. Mandelbrot, who invented "Fractal Geometry," says it would be a better way to explain how markets work, but he didn't give any ready-to-use solutions.
 
 * 🔥🔥🔥🔥 [The Mathematics of Financial Derivatives](https://amzn.to/4s0siMc) _By Paul Wilmott, Sam Howison, Jeff Dewynne_
-Easy tounderstand, but still in depth, intoduction of option pricing, Black-Scholes Model (with a proof!)
+The Black-Scholes Model (with a proof) and option pricing are introduced in an easy-to-understand yet thorough manner.
 [PDF Version](https://github.com/PlamenStilyianov/FinMathematics/blob/master/The%20Mathematics%20Of%20Financial%20Derivatives.pdf)
 
 * :soon: [An Introduction to Computational Finance Without Agonizing Pain (Free PDF)](https://cs.uwaterloo.ca/~paforsyt/agon.pdf) _by Peter Forsyth_ (2022)
+
+* :soon: [Tidy Finance with Python](https://amzn.to/4aKk84c) _By Christoph Scheuch, Stefan Voigt, Patrick Weiss, Christoph Frey_ (2024) This textbook shows how to bring theoretical concepts from finance and econometrics to the data. Focusing on coding and data analysis with Python, we show how to conduct research in empirical finance from scratch. The empirical applications range from key concepts of empirical asset pricing (beta estimation, portfolio sorts, performance analysis, Fama-French factors) to modeling and machine learning applications (fixed effects estimation, clustering standard errors, difference-in-difference estimators, ridge regression, Lasso, Elastic net, random forests, neural networks) and portfolio optimization techniques.
+  * [FREE Online Version by Authors](https://www.tidy-finance.org/python/)
+ 
+* [Dynamic Programming](https://amzn.to/3L1rdTs) _By Thomas J. Sargent and John Stachurski_ (2025) Dynamic programming (DP) is a sub-field of optimization concerned with sequential decision making over time. The essential ideas of DP have been adopted in many applications, from robotics and AI to the sequencing of DNA. It is used around the world to control aircraft, route shipping, test products, recommend information on media platforms and solve major research problems. Dynamic Programming: Finite States treats the theory of dynamic programming and its applications in economics, finance, and operations research.
+  * [FREE PDF Version BY Authors](https://github.com/QuantEcon/book-dp1-public/raw/main/pdf/dp.pdf)
+  * [Associated Python Code](https://github.com/QuantEcon/book-dp1-public/tree/main/code/py)
+  
   
 # Machine Learning
 
@@ -22,16 +30,25 @@ The book adopts a hands-on, practical approach to teaching statistical learning,
 While ISLP focused  on hands-on approach, this book provides in depth mathematical considerations behind statistical learning.
 
 * [Advances in Financial Machine Learning](https://amzn.to/3KG34Sp) _By Marcos M. LŁpez de Prado_
+  * [Associated Code & Exersises](https://github.com/fernandodelacalle/adv-financial-ml-marcos-exercises/tree/master)
  
 * [Machine Learning for Asset Managers](https://amzn.to/3MysbHj0) _By Marcos M. LŁpez de Prado_
 IMHO, very advanced and disconnected set of articles. Requires (at least for me) a lot of preparation and learning
 
-# Artifical Inteligence
+# Deep Learning
 
+* 🔥🔥🔥🔥🔥 [Dive into Deep Learning (D2L)](https://amzn.to/48C3Nx7) _By Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola_ (2023) This book is a comprehensive resource that makes deep learning approachable, while still providing sufficient technical depth to enable engineers, scientists, and students to use deep learning in their own work. No previous background in machine learning or deep learning is required―every concept is explained from scratch and the appendix provides a refresher on the mathematics needed. Runnable code is featured throughout, allowing you to develop your own intuition by putting key ideas into practice. Covers implementations with  PyTorch, NumPy/MXNet, JAX, and TensorFlow
+  * [Free PDF by Authors (PyTorch version)](https://d2l.ai/d2l-en.pdf)
+  * [Free interactive version](https://d2l.ai/index.html)
+  * [Notebooks](https://d2l.ai/d2l-en.zip)
+  * [Deep Learning UC Berkeley STAT-157 2019 (YouTube)](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 
-# Market Trading (General)
-
-
+* [Understanding Deep Learning](https://amzn.to/3YwrReI) _By Simon J.D. Prince_ (2023) An authoritative, accessible, and up-to-date treatment of deep learning that strikes a pragmatic middle ground between theory and practice.
+  * [Author website with blog andother resources](https://udlbook.github.io/udlbook/) 
+  * [Free PDF version by Author](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf)
+  * [Notebooks](https://github.com/staskh/udlbook/tree/main/Notebooks)
+  * [Video Letures (YouTube)](https://udlbook.github.io/udlbook/)
+  
 # Options Trading
 
 * 🔥🔥🔥🔥 [Option Volatility and Pricing](https://amzn.to/4pBKzO0) _By Sheldon Netenberg_ (2015) 
@@ -42,3 +59,13 @@ A top options trader details a practical approach for pricing and trading option
 The options market is always changing, and in order to keep up with it you need the greeks―delta, gamma, theta, vega, and rho―which are the best techniques for valuing options and executing trades regardless of market conditions. In the Second Edition of Trading Options Greeks, veteran options trader Dan Pasarelli puts these tools in perspective by offering fresh insights on option trading and valuation.
 
   IMHO, a lot of similarities with "Option Volatility and Pricing" , but much easy to understand and follow paractical recomendation on spread, stradle, batterfly and other option trading startegies
+
+* [Options Pricing](https://optionalpha.com/topics/options-pricing) _By OptionAlpha.com_ A FREE complete guide to options contract pricing, intrinsic and extrinsic value, the Black-Scholes model, and more.
+
+* [Trading Volatility: Trading Volatility, Correlation, Term Structure and Skew](https://amzn.to/4oMZFit) _By Colin Bennett_ (2014) This publication aims to fill the void between books providing an introduction to derivatives, and advanced books whose target audience are members of quantitative modelling community. In order to appeal to the widest audience, this publication tries to assume the least amount of prior knowledge. The content quickly moves onto more advanced subjects in order to concentrate on more practical and advanced topics.
+  * [Free PDF version by Author](https://www.trading-volatility.com/Trading-Volatility.pdf) 
+
+# Algorithmic Trading
+
+* [Python for Algorithmic Trading Cookbook](https://amzn.to/48NQdWc) _By Jason Strimpel_ (2024) Harness the power of Python libraries to transform freely available financial market data into algorithmic trading strategies and deploy them into a live trading environment.
+  *[Notebooks, Examples, etc](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook)
