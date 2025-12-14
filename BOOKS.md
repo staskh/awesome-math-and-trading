@@ -1,3 +1,40 @@
+ # Machine Learning
+
+* 🔥🔥🔥🔥🔥 [Introduction to Statistical Learning with applications in Python (ISLP)](https://amzn.to/4iVvvbD) _By by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani , Jonathan Taylor_ (2023)
+The book adopts a hands-on, practical approach to teaching statistical learning, featuring numerous examples and case studies, accompanied by Python code for implementation.
+  * [Free PDF version by Authors](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
+  * [Associated Lab Notebooks](https://github.com/intro-stat-learning/ISLP_labs/tree/stable)
+  * [StanfordOnline Course](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
+  * [YouTube Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
+    
+* 🔥🔥🔥🔥🔥 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://amzn.to/48T6EjY) _By Trevor Hastie, Robert Tibshirani, Jerome Friedman_ (2009)
+While ISLP focused  on hands-on approach, this book provides in depth mathematical considerations behind statistical learning.
+
+* [Forecasting: Principles and Practice (3d ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
+  * [Free Online Version (with videos)](https://otexts.com/fpp3/)
+  * [Lectures Videos (YouTube)](https://www.youtube.com/playlist?list=PLyCNZ_xXGzpm7W9jLqbIyBAiSO5jDwJeE)
+  * [Forecasting: Principles and Practice, the Pythonic Way](https://otexts.com/fpppy/) - Python version of above, no videos. Free Online version.
+
+* [Mathematics for Machine Learning](https://amzn.to/3KznpsC) _By Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong._ (2020) We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
+
+  * [Authors website](https://mml-book.github.io/)
+  * [FreePDF version by Authors](https://mml-book.github.io/book/mml-book.pdf)
+  * [GitHub with additional matherial](https://github.com/mml-book/mml-book.github.io)
+  
+# Deep Learning
+
+* 🔥🔥🔥🔥🔥 [Dive into Deep Learning (D2L)](https://amzn.to/48C3Nx7) _By Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola_ (2023) This book is a comprehensive resource that makes deep learning approachable, while still providing sufficient technical depth to enable engineers, scientists, and students to use deep learning in their own work. No previous background in machine learning or deep learning is required―every concept is explained from scratch and the appendix provides a refresher on the mathematics needed. Runnable code is featured throughout, allowing you to develop your own intuition by putting key ideas into practice. Covers implementations with  PyTorch, NumPy/MXNet, JAX, and TensorFlow
+  * [Free PDF by Authors (PyTorch version)](https://d2l.ai/d2l-en.pdf)
+  * [Free interactive version](https://d2l.ai/index.html)
+  * [Notebooks](https://d2l.ai/d2l-en.zip)
+  * [Deep Learning UC Berkeley STAT-157 2019 (YouTube)](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
+
+* [Understanding Deep Learning](https://amzn.to/3YwrReI) _By Simon J.D. Prince_ (2023) An authoritative, accessible, and up-to-date treatment of deep learning that strikes a pragmatic middle ground between theory and practice.
+  * [Author website with blog andother resources](https://udlbook.github.io/udlbook/) 
+  * [Free PDF version by Author](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf)
+  * [Notebooks](https://github.com/staskh/udlbook/tree/main/Notebooks)
+  * [Video Letures (YouTube)](https://udlbook.github.io/udlbook/)
+
 # Financial Mathematics
 
 * 🔥🔥🔥🔥🔥 [The (mis) Behavior of Markets](https://amzn.to/49aGpXy) _By Benoit Mandelbrot_(2004)
@@ -16,44 +53,12 @@ The Black-Scholes Model (with a proof) and option pricing are introduced in an e
   * [FREE PDF Version BY Authors](https://github.com/QuantEcon/book-dp1-public/raw/main/pdf/dp.pdf)
   * [Associated Python Code](https://github.com/QuantEcon/book-dp1-public/tree/main/code/py)
   
-  
-# Machine Learning
-
-* 🔥🔥🔥🔥🔥 [Introduction to Statistical Learning with applications in Python (ISLP)](https://amzn.to/4iVvvbD) _By by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani , Jonathan Taylor_ (2023)
-The book adopts a hands-on, practical approach to teaching statistical learning, featuring numerous examples and case studies, accompanied by Python code for implementation.
-  * [Free PDF version by Authors](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
-  * [YouTube Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
-  * [Associated Lab Notebooks](https://github.com/intro-stat-learning/ISLP_labs/tree/stable)
-  * [StanfordOnline Course](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
-
-* 🔥🔥🔥🔥🔥 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://amzn.to/48T6EjY) _By Trevor Hastie, Robert Tibshirani, Jerome Friedman_ (2009)
-While ISLP focused  on hands-on approach, this book provides in depth mathematical considerations behind statistical learning.
-
-* [Forecasting: Principles and Practice (3d ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
-  * [Free Online Version (with videos)](https://otexts.com/fpp3/)
-  * [Lectures Videos (YouTube)](https://www.youtube.com/playlist?list=PLyCNZ_xXGzpm7W9jLqbIyBAiSO5jDwJeE)
-  * [Forecasting: Principles and Practice, the Pythonic Way](https://otexts.com/fpppy/) - Python version of above, no videos. Free Online version.
-
 * [Advances in Financial Machine Learning](https://amzn.to/3KG34Sp) _By Marcos M. LŁpez de Prado_
   * [Associated Code & Exersises](https://github.com/fernandodelacalle/adv-financial-ml-marcos-exercises/tree/master)
  
 * [Machine Learning for Asset Managers](https://amzn.to/3MysbHj0) _By Marcos M. LŁpez de Prado_
 IMHO, very advanced and disconnected set of articles. Requires (at least for me) a lot of preparation and learning
 
-# Deep Learning
-
-* 🔥🔥🔥🔥🔥 [Dive into Deep Learning (D2L)](https://amzn.to/48C3Nx7) _By Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola_ (2023) This book is a comprehensive resource that makes deep learning approachable, while still providing sufficient technical depth to enable engineers, scientists, and students to use deep learning in their own work. No previous background in machine learning or deep learning is required―every concept is explained from scratch and the appendix provides a refresher on the mathematics needed. Runnable code is featured throughout, allowing you to develop your own intuition by putting key ideas into practice. Covers implementations with  PyTorch, NumPy/MXNet, JAX, and TensorFlow
-  * [Free PDF by Authors (PyTorch version)](https://d2l.ai/d2l-en.pdf)
-  * [Free interactive version](https://d2l.ai/index.html)
-  * [Notebooks](https://d2l.ai/d2l-en.zip)
-  * [Deep Learning UC Berkeley STAT-157 2019 (YouTube)](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
-
-* [Understanding Deep Learning](https://amzn.to/3YwrReI) _By Simon J.D. Prince_ (2023) An authoritative, accessible, and up-to-date treatment of deep learning that strikes a pragmatic middle ground between theory and practice.
-  * [Author website with blog andother resources](https://udlbook.github.io/udlbook/) 
-  * [Free PDF version by Author](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf)
-  * [Notebooks](https://github.com/staskh/udlbook/tree/main/Notebooks)
-  * [Video Letures (YouTube)](https://udlbook.github.io/udlbook/)
-  
 # Options Trading
 
 * 🔥🔥🔥🔥 [Option Volatility and Pricing](https://amzn.to/4pBKzO0) _By Sheldon Netenberg_ (2015) 
