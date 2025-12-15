@@ -80,6 +80,9 @@ The options market is always changing, and in order to keep up with it you need 
   * [Free PDF version by Author](https://www.trading-volatility.com/Trading-Volatility.pdf)
 
 * [How I Built My Trading Career as a Finance Outsider: A Case Study](https://docs.google.com/document/d/1qxn3WzDTvZstp3da8YuwENuCrpSmt37qd1icyGiiwRY/edit?tab=t.0#heading=h.1b7tw86au78f) _By Kris Longmore_ Personal story of jorney from an engineed to option trader.
+ 
+* [The Thetapig Letters](https://moontower.substack.com/api/v1/file/cc11cffc-a00a-4c68-961e-12bdb532d4d9.pdf) _By Euan Sinclair_ (2015) The Thetapig Letters is a cult-classic series of fictional epistolary tales by options trader and author Euan Sinclair, presented as letters between a manipulative mentor ("Theta Pig") and his naive understudy ("Backtest"), subtly teaching complex options trading concepts by detailing traps, misdirections, and psychological pitfalls for aspiring traders, published through Sinclair's Moontower platform. It's a unique blend of trading education and narrative fiction, focusing on the why and how of option market dynamics, especially volatility.
+  * [Euan Sinclair on Retail vs Institutional Trading | The Outlier Podcast](https://www.youtube.com/watch?v=EjD6KPo3OZs)
 
 ## Articles & WhitePapers
 * [Options Pricing](https://optionalpha.com/topics/options-pricing) _By OptionAlpha.com_ A FREE complete guide to options contract pricing, intrinsic and extrinsic value, the Black-Scholes model, and more.
