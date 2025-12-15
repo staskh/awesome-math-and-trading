@@ -59,6 +59,12 @@ The Black-Scholes Model (with a proof) and option pricing are introduced in an e
 * [Machine Learning for Asset Managers](https://amzn.to/3MysbHj0) _By Marcos M. LŁpez de Prado_
 IMHO, very advanced and disconnected set of articles. Requires (at least for me) a lot of preparation and learning
 
+* [The Elements of Quantitative Investing](https://amzn.to/4rVKrdZ) _By Giuseppe A. Paleologo_ (2025) Expert real-world insight on the intricacies of quantitative trading before, during, and after the trade
+
+* [Advanced Portfolio Management: A Quant's Guide for Fundamental Investors](https://amzn.to/48FCHFr)  _By Giuseppe A. Paleologo_ (2021) You have great investment ideas. If you turn them into highly profitable portfolios, this book is for you.
+
+* [Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage](https://amzn.to/44rkEjH) _By Michael Isichenko_ (2021) Discover foundational and advanced techniques in quantitative equity trading from a veteran insider 
+
 # Options Trading
 
 * 🔥🔥🔥🔥 [Option Volatility and Pricing](https://amzn.to/4pBKzO0) _By Sheldon Netenberg_ (2015) 
@@ -70,10 +76,19 @@ The options market is always changing, and in order to keep up with it you need 
 
   IMHO, a lot of similarities with "Option Volatility and Pricing" , but much easy to understand and follow paractical recomendation on spread, stradle, batterfly and other option trading startegies
 
-* [Options Pricing](https://optionalpha.com/topics/options-pricing) _By OptionAlpha.com_ A FREE complete guide to options contract pricing, intrinsic and extrinsic value, the Black-Scholes model, and more.
-
 * [Trading Volatility: Trading Volatility, Correlation, Term Structure and Skew](https://amzn.to/4oMZFit) _By Colin Bennett_ (2014) This publication aims to fill the void between books providing an introduction to derivatives, and advanced books whose target audience are members of quantitative modelling community. In order to appeal to the widest audience, this publication tries to assume the least amount of prior knowledge. The content quickly moves onto more advanced subjects in order to concentrate on more practical and advanced topics.
-  * [Free PDF version by Author](https://www.trading-volatility.com/Trading-Volatility.pdf) 
+  * [Free PDF version by Author](https://www.trading-volatility.com/Trading-Volatility.pdf)
+
+* [How I Built My Trading Career as a Finance Outsider: A Case Study](https://docs.google.com/document/d/1qxn3WzDTvZstp3da8YuwENuCrpSmt37qd1icyGiiwRY/edit?tab=t.0#heading=h.1b7tw86au78f) _By Kris Longmore_ Personal story of jorney from an engineed to option trader.
+
+## Articles & WhitePapers
+* [Options Pricing](https://optionalpha.com/topics/options-pricing) _By OptionAlpha.com_ A FREE complete guide to options contract pricing, intrinsic and extrinsic value, the Black-Scholes model, and more.
+  
+* [Gamma Scalping: A Primer](https://www.schwab.com/learn/story/gamma-scalping-primer) Gamma scalping—also called delta-neutral trading—is an options strategy designed to help traders navigate pricing volatility.
+  
+* [Understanding 0DTE Gamma Exposure](https://menthorq.com/guide/understanding-0dte-gamma-exposure/)
+
+* [Reading, Writing and Drawdown Arithmetic](https://byfire.substack.com/p/reading-writing-and-drawdown-arithmetic) _By Paleologo_ Probability of a Drawdown Occurring within a Future Date
 
 # Algorithmic Trading
 
