@@ -93,6 +93,8 @@ The options market is always changing, and in order to keep up with it you need 
 
 * [Reading, Writing and Drawdown Arithmetic](https://byfire.substack.com/p/reading-writing-and-drawdown-arithmetic) _By Paleologo_ Probability of a Drawdown Occurring within a Future Date
 
+* [The Original Turtle Trading Rules](https://www.tradingwithrayner.com/wp-content/uploads/2014/11/OriginalTurtleRules.pdf) (2008) The system provides answers for each of the decisions a trader must make while trading. The system makes it easier for a trader to trade consistently because there are a set of rules which specifically define what should be done. The mechanics of trading is not left up to the judgment of the trader.
+
 # Algorithmic Trading
 
 * [Python for Algorithmic Trading Cookbook](https://amzn.to/48NQdWc) _By Jason Strimpel_ (2024) Harness the power of Python libraries to transform freely available financial market data into algorithmic trading strategies and deploy them into a live trading environment.
