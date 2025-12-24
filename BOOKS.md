@@ -8,7 +8,8 @@ The book adopts a hands-on, practical approach to teaching statistical learning,
   * [YouTube Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
     
 * 🔥🔥🔥🔥🔥 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://amzn.to/48T6EjY) _By Trevor Hastie, Robert Tibshirani, Jerome Friedman_ (2009)
-While ISLP focused  on hands-on approach, this book provides in depth mathematical considerations behind statistical learning.
+While more recent _Introduction to Statistical Learning_ focused  on hands-on approach, this book provides in depth mathematical considerations behind statistical learning.
+  * [Free PDF version by Authors](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf.download.html)
 
 * [Forecasting: Principles and Practice (3d ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
   * [Free Online Version (with videos)](https://otexts.com/fpp3/)
