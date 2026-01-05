@@ -1,15 +1,19 @@
  # Machine Learning
 
-* 🔥🔥🔥🔥🔥 [Introduction to Statistical Learning with applications in Python (ISLP)](https://amzn.to/4iVvvbD) _By by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani , Jonathan Taylor_ (2023)
+* 🔥 [Introduction to Statistical Learning with applications in Python (ISLP)](https://amzn.to/4iVvvbD) _By by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani , Jonathan Taylor_ (2023)
 The book adopts a hands-on, practical approach to teaching statistical learning, featuring numerous examples and case studies, accompanied by Python code for implementation.
   * [Free PDF version by Authors](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
   * [Associated Lab Notebooks](https://github.com/intro-stat-learning/ISLP_labs/tree/stable)
   * [StanfordOnline Course](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python)
   * [YouTube Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
     
-* 🔥🔥🔥🔥🔥 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://amzn.to/48T6EjY) _By Trevor Hastie, Robert Tibshirani, Jerome Friedman_ (2009)
+* 🔥 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://amzn.to/48T6EjY) _By Trevor Hastie, Robert Tibshirani, Jerome Friedman_ (2009)
 While more recent _Introduction to Statistical Learning_ focused  on hands-on approach, this book provides in depth mathematical considerations behind statistical learning.
   * [Free PDF version by Authors](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf.download.html)
+ 
+* 🔥 [Python for Data Analysis, 3rd Edition](https://amzn.to/4q9wLuC) _By Wes McKinney (2022)_ Writen by the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python. Updated for Python 3.10 and pandas 1.4, the third edition of this hands-on guide is packed with practical case studies that show you how to solve a broad set of data analysis problems effectively.
+  * [Free online version by Author](https://wesmckinney.com/book/)
+  * [GitHub with Notebooks and Examples](https://github.com/wesm/pydata-book)
 
 * [Forecasting: Principles and Practice (3d ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
   * [Free Online Version (with videos)](https://otexts.com/fpp3/)
@@ -24,7 +28,7 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
   
 # Deep Learning
 
-* 🔥🔥🔥🔥🔥 [Dive into Deep Learning (D2L)](https://amzn.to/48C3Nx7) _By Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola_ (2023) This book is a comprehensive resource that makes deep learning approachable, while still providing sufficient technical depth to enable engineers, scientists, and students to use deep learning in their own work. No previous background in machine learning or deep learning is required―every concept is explained from scratch and the appendix provides a refresher on the mathematics needed. Runnable code is featured throughout, allowing you to develop your own intuition by putting key ideas into practice. Covers implementations with  PyTorch, NumPy/MXNet, JAX, and TensorFlow
+* 🔥 [Dive into Deep Learning (D2L)](https://amzn.to/48C3Nx7) _By Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola_ (2023) This book is a comprehensive resource that makes deep learning approachable, while still providing sufficient technical depth to enable engineers, scientists, and students to use deep learning in their own work. No previous background in machine learning or deep learning is required―every concept is explained from scratch and the appendix provides a refresher on the mathematics needed. Runnable code is featured throughout, allowing you to develop your own intuition by putting key ideas into practice. Covers implementations with  PyTorch, NumPy/MXNet, JAX, and TensorFlow
   * [Free PDF by Authors (PyTorch version)](https://d2l.ai/d2l-en.pdf)
   * [Free interactive version](https://d2l.ai/index.html)
   * [Notebooks](https://d2l.ai/d2l-en.zip)
@@ -38,14 +42,14 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
 
 # Financial Mathematics
 
-* 🔥🔥🔥🔥🔥 [The (mis) Behavior of Markets](https://amzn.to/49aGpXy) _By Benoit Mandelbrot_(2004)
+* 🔥🔥 [The (mis) Behavior of Markets](https://amzn.to/49aGpXy) _By Benoit Mandelbrot_(2004)
   This is one of the best and easiest to understand books about stock market mathematical theories. It was written by one of the most important mathematicians of the last century, not a trader. The main point is that current financial math theories that use normal distribution don't work well with how the market actually behaves. Mandelbrot, who invented "Fractal Geometry," says it would be a better way to explain how markets work, but he didn't give any ready-to-use solutions.
 
-* 🔥🔥🔥🔥 [The Mathematics of Financial Derivatives](https://amzn.to/4s0siMc) _By Paul Wilmott, Sam Howison, Jeff Dewynne_
+* 🔥 [The Mathematics of Financial Derivatives](https://amzn.to/4s0siMc) _By Paul Wilmott, Sam Howison, Jeff Dewynne_
 The Black-Scholes Model (with a proof) and option pricing are introduced in an easy-to-understand yet thorough manner.
 [PDF Version](https://github.com/PlamenStilyianov/FinMathematics/blob/master/The%20Mathematics%20Of%20Financial%20Derivatives.pdf)
 
-* :soon: [An Introduction to Computational Finance Without Agonizing Pain (Free PDF)](https://cs.uwaterloo.ca/~paforsyt/agon.pdf) _by Peter Forsyth_ (2022)
+* :soon: [An Introduction to Computational Finance Without Agonizing Pain (Free PDF)](https://cs.uwaterloo.ca/~paforsyt/agon.pdf) _by Peter Forsyth_ (2022) Very similar to _The Mathematics of Financial Derivatives_,yet not as eloborative. designed for senior undergraduates. 
 
 * :soon: [Tidy Finance with Python](https://amzn.to/4aKk84c) _By Christoph Scheuch, Stefan Voigt, Patrick Weiss, Christoph Frey_ (2024) This textbook shows how to bring theoretical concepts from finance and econometrics to the data. Focusing on coding and data analysis with Python, we show how to conduct research in empirical finance from scratch. The empirical applications range from key concepts of empirical asset pricing (beta estimation, portfolio sorts, performance analysis, Fama-French factors) to modeling and machine learning applications (fixed effects estimation, clustering standard errors, difference-in-difference estimators, ridge regression, Lasso, Elastic net, random forests, neural networks) and portfolio optimization techniques.
   * [FREE Online Version by Authors](https://www.tidy-finance.org/python/)
@@ -68,10 +72,10 @@ IMHO, very advanced and disconnected set of articles. Requires (at least for me)
 
 # Options Trading
 
-* 🔥🔥🔥🔥 [Option Volatility and Pricing](https://amzn.to/4pBKzO0) _By Sheldon Netenberg_ (2015) 
+* 🔥 [Option Volatility and Pricing](https://amzn.to/4pBKzO0) _By Sheldon Netenberg_ (2015) 
 The bestselling Option Volatility & Pricing has made Sheldon Natenberg a widely recognized authority in the option industry. At firms around the world, the text is often the first book that new professional traders aregiven to learn the trading strategies and risk management techniques required for success in option markets.
 
-* 🔥🔥🔥🔥 [Trading Option Greeks](https://amzn.to/3MCuyc8) _By Dan Passarelli_ (2013)
+* 🔥 [Trading Option Greeks](https://amzn.to/3MCuyc8) _By Dan Passarelli_ (2013)
 A top options trader details a practical approach for pricing and trading options in any market condition 
 The options market is always changing, and in order to keep up with it you need the greeks―delta, gamma, theta, vega, and rho―which are the best techniques for valuing options and executing trades regardless of market conditions. In the Second Edition of Trading Options Greeks, veteran options trader Dan Pasarelli puts these tools in perspective by offering fresh insights on option trading and valuation.
 
@@ -99,4 +103,4 @@ The options market is always changing, and in order to keep up with it you need 
 # Algorithmic Trading
 
 * [Python for Algorithmic Trading Cookbook](https://amzn.to/48NQdWc) _By Jason Strimpel_ (2024) Harness the power of Python libraries to transform freely available financial market data into algorithmic trading strategies and deploy them into a live trading environment.
-  *[Notebooks, Examples, etc](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook)
+  * [Notebooks, Examples, etc](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook)
