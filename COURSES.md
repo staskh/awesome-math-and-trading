@@ -2,6 +2,9 @@ This is an awesome collection of courses, training workshops and individual trai
 
 
 # Math, Machine Learning, AI courses
+* [History of Mathematics](https://www.youtube.com/playlist?list=PLs6rMe3K87LGdOC9RVxhcPkh3AIkXWo7V) _By Alex Kontorovich (2024)_
+  
+* [Mathematical Statistics](https://www.youtube.com/playlist?list=PLs6rMe3K87LG2gv1i1ATURIhcH84fdGX4) _By Alex Kontorovich (2020)_ 
 
 * [Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
   * [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
