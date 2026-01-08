@@ -1,3 +1,5 @@
+An awesome collection of [mostly free] books on machine learning, AI, Finencial Mathematics and Options Trading. 
+
 # Machine Learning
 
 * 🔥 [Introduction to Statistical Learning with applications in Python (ISLP)](https://amzn.to/4iVvvbD) _By by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani , Jonathan Taylor_ (2023)
@@ -15,7 +17,7 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
   * [Free online version by Author](https://wesmckinney.com/book/)
   * [GitHub with Notebooks and Examples](https://github.com/wesm/pydata-book)
  
-* [Interpretable Machine Learning (Free)](https://christophm.github.io/interpretable-ml-book/) _By Christoph Molnar (2025)_  This book is about interpretable machine learning. Machine learning is being built into many products and processes of our daily lives, yet decisions made by machines don't automatically come with an explanation. An explanation increases the trust in the decision and in the machine learning model.
+* :soon: [Interpretable Machine Learning (Free)](https://christophm.github.io/interpretable-ml-book/) _By Christoph Molnar (2025)_  This book is about interpretable machine learning. Machine learning is being built into many products and processes of our daily lives, yet decisions made by machines don't automatically come with an explanation. An explanation increases the trust in the decision and in the machine learning model.
   * [Scripts and data](https://github.com/christophM/interpretable-ml-book) - Associated Python and R scripts 
 
 * [Forecasting: Principles and Practice (3d ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
@@ -37,6 +39,11 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
   
 # Deep Learning
 
+* :soon: [Machine Learning Systems (Free Online version)](https://mlsysbook.ai/book/) _By Vijay Janapa Reddi/Harvard University (2026)_ This textbook bridges the gap between theoretical foundations and practical engineering, emphasizing the systems perspective required to build effective AI solutions. Learning matherial for CS249r at Harvard University.
+  * [Free PDF version by Author](https://mlsysbook.ai/book/assets/downloads/Machine-Learning-Systems.pdf)
+  * [GitHub repository with Labs](https://github.com/harvard-edge/cs249r_book)
+  * [TinyTorch - build your own AI/ML framework](https://mlsysbook.ai/tinytorch/intro.html)) - build it yourself companion to _Machine Learning Systems_
+    
 * 🔥 [Dive into Deep Learning (D2L)](https://amzn.to/48C3Nx7) _By Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola_ (2023) This book is a comprehensive resource that makes deep learning approachable, while still providing sufficient technical depth to enable engineers, scientists, and students to use deep learning in their own work. No previous background in machine learning or deep learning is required―every concept is explained from scratch and the appendix provides a refresher on the mathematics needed. Runnable code is featured throughout, allowing you to develop your own intuition by putting key ideas into practice. Covers implementations with  PyTorch, NumPy/MXNet, JAX, and TensorFlow
   * [Free PDF by Authors (PyTorch version)](https://d2l.ai/d2l-en.pdf)
   * [Free interactive version](https://d2l.ai/index.html)
@@ -48,11 +55,6 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
   * [Free PDF version by Author](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf)
   * [Notebooks](https://github.com/staskh/udlbook/tree/main/Notebooks)
   * [Video Letures (YouTube)](https://udlbook.github.io/udlbook/)
- 
-* :soon: [Machine Learning Systems (Free Online version)](https://mlsysbook.ai/book/) _By Vijay Janapa Reddi/Harvard University (2026)_ This textbook bridges the gap between theoretical foundations and practical engineering, emphasizing the systems perspective required to build effective AI solutions. Learning matherial for CS249r at Harvard University.
-  * [Free PDF version by Author](https://mlsysbook.ai/book/assets/downloads/Machine-Learning-Systems.pdf)
-  * [GitHub repository with Labs](https://github.com/harvard-edge/cs249r_book)
-  * [TinyTorch - build your own AI/ML framework](https://mlsysbook.ai/tinytorch/intro.html)) - build it yourself companion to _Machine Learning Systems_
 
 # Financial Mathematics
 
