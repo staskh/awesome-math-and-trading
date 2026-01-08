@@ -55,6 +55,13 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
   * [Free PDF version by Author](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf)
   * [Notebooks](https://github.com/staskh/udlbook/tree/main/Notebooks)
   * [Video Letures (YouTube)](https://udlbook.github.io/udlbook/)
+ 
+* [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://amzn.to/4jt9n8G) _By Stefano V. Albrecht,  Filippos Christianos,  Lukas Schäfer (2024)_ The first comprehensive introduction to multi-agent reinforcement learning, an area of machine learning in which multiple decision-making agents learn to optimally interact in a shared environment.
+  * [Book website](https://marl-book.com/)
+  * [FREE PDF version by Authors](https://marl-book.com/download/)
+  * [Course Videos](https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2)
+  * [Course slides](https://github.com/marl-book/slides)
+  * [Exercises](https://github.com/marl-book/marl-book-exercises)
 
 # Financial Mathematics
 
