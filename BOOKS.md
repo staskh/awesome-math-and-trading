@@ -14,6 +14,9 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
 * 🔥 [Python for Data Analysis, 3rd Edition](https://amzn.to/4q9wLuC) _By Wes McKinney (2022)_ Writen by the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python. Updated for Python 3.10 and pandas 1.4, the third edition of this hands-on guide is packed with practical case studies that show you how to solve a broad set of data analysis problems effectively.
   * [Free online version by Author](https://wesmckinney.com/book/)
   * [GitHub with Notebooks and Examples](https://github.com/wesm/pydata-book)
+ 
+* [Interpretable Machine Learning (Free)](https://christophm.github.io/interpretable-ml-book/) _By Christoph Molnar (2025)_  This book is about interpretable machine learning. Machine learning is being built into many products and processes of our daily lives, yet decisions made by machines don't automatically come with an explanation. An explanation increases the trust in the decision and in the machine learning model.
+  * [Scripts and data](https://github.com/christophM/interpretable-ml-book) - Associated Python and R scripts 
 
 * [Forecasting: Principles and Practice (3d ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
   * [Free Online Version (with videos)](https://otexts.com/fpp3/)
