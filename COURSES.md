@@ -8,6 +8,9 @@ This is an awesome collection of courses, training workshops and individual trai
 
 * [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/) _MIT (2008)_ This course teaches the art of guessing results and solving problems without doing a proof or an exact calculation. Techniques include extreme-cases reasoning, dimensional analysis, successive approximation, discretization, generalization, and pictorial analysis.
 
+* [Introduction to Deep Learning](https://introtodeeplearning.com/2025/) _My MIT (2025)_
+  * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - YouTube videos
+    
 * [Interractive ML Math with Excercises](https://www.tensortonic.com/ml-math) _TensorTonic_ interractive tutoring of Machine Learning threory and practice
 
 * [Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
