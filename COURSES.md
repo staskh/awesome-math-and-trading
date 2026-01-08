@@ -6,6 +6,8 @@ This is an awesome collection of courses, training workshops and individual trai
   
 * [Mathematical Statistics](https://www.youtube.com/playlist?list=PLs6rMe3K87LG2gv1i1ATURIhcH84fdGX4) _By Alex Kontorovich (2020)_
 
+* [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/) _MIT (2008)_ This course teaches the art of guessing results and solving problems without doing a proof or an exact calculation. Techniques include extreme-cases reasoning, dimensional analysis, successive approximation, discretization, generalization, and pictorial analysis.
+
 * [Interractive ML Math with Excercises](https://www.tensortonic.com/ml-math) _TensorTonic_ interractive tutoring of Machine Learning threory and practice
 
 * [Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
