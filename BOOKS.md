@@ -62,7 +62,17 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
   * [Course Videos](https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2)
   * [Course slides](https://github.com/marl-book/slides)
   * [Exercises](https://github.com/marl-book/marl-book-exercises)
-
+ 
+* [Probabilistic Machine Learning: An introduction](https://amzn.to/49du6tS) _By Kevin P. Murphy (2022)_ A detailed and up-to-date introduction to machine learning, presented through the unifying lens of probabilistic modeling and Bayesian decision theory.
+  * [Book website](https://probml.github.io/pml-book/book1.html)
+  * [FREE PDF version by author](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+  * [Codebase](https://github.com/probml/pyprobml/tree/master/notebooks/book1)
+ 
+* [Probabilistic Machine Learning: Advanced Topics](https://amzn.to/4q6FnlD) _By Kevin P. Murphy (2023)_ An advanced book for researchers and graduate students working in machine learning and statistics who want to learn about deep learning, Bayesian inference, generative models, and decision making under uncertainty.
+  * [Book website](https://probml.github.io/pml-book/book2.html)
+  * [FREE PDF version by author](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf)
+  * [Codebase](https://github.com/probml/pyprobml/tree/master/notebooks/book2)
+    
 # Financial Mathematics
 
 * 🔥🔥 [The (mis) Behavior of Markets](https://amzn.to/49aGpXy) _By Benoit Mandelbrot_(2004)
