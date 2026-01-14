@@ -13,7 +13,7 @@ This is an awesome collection of courses, training workshops and individual trai
     
 * [Interractive ML Math with Excercises](https://www.tensortonic.com/ml-math) _TensorTonic_ interractive tutoring of Machine Learning threory and practice
 
-* [Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
+* 🔥[Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
   * [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
  
 * [Multi-Agent Reinforcement Learning](https://github.com/marl-book/slides)
