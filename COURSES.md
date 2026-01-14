@@ -8,6 +8,10 @@ This is an awesome collection of courses, training workshops and individual trai
  
 * 🔜 [tinyTORCH - Build Your Own ML Framework](https://mlsysbook.ai/tinytorch/intro.html) Step by step lab on building minimalistic TORCH library. From tensors to systems. An educational framework for building and optimizing ML—understand how PyTorch, TensorFlow, and JAX really work. Companion lab to [Machine Learning Systems](https://mlsysbook.ai/book/) book.
 
+* [LLM Agents - Introduction](https://rdi.berkeley.edu/llm-agents/f24) _Berkeley CS294/194-196 (2024)_ Introduction course on Large Language MOdel Ahents. Includes Slides and **Videos**
+
+* [LLM Agents - Advanced](https://rdi.berkeley.edu/adv-llm-agents/sp25) _Berkeley CS294/194-280 (2025)_ Advanced course on Large Language MOdel Ahents. Includes Slides and **Videos**
+
 * [History of Mathematics](https://www.youtube.com/playlist?list=PLs6rMe3K87LGdOC9RVxhcPkh3AIkXWo7V) _By Alex Kontorovich (2024)_
   
 * [Mathematical Statistics](https://www.youtube.com/playlist?list=PLs6rMe3K87LG2gv1i1ATURIhcH84fdGX4) _By Alex Kontorovich (2020)_
