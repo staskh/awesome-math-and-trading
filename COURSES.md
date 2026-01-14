@@ -2,6 +2,12 @@ This is an awesome collection of courses, training workshops and individual trai
 
 
 # Math, Machine Learning, AI courses
+
+* 🔥[Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
+  * [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
+ 
+* 🔜 [tinyTORCH - Build Your Own ML Framework](https://mlsysbook.ai/tinytorch/intro.html) Step by step lab on building minimalistic TORCH library. From tensors to systems. An educational framework for building and optimizing ML—understand how PyTorch, TensorFlow, and JAX really work. Companion lab to [Machine Learning Systems](https://mlsysbook.ai/book/) book.
+
 * [History of Mathematics](https://www.youtube.com/playlist?list=PLs6rMe3K87LGdOC9RVxhcPkh3AIkXWo7V) _By Alex Kontorovich (2024)_
   
 * [Mathematical Statistics](https://www.youtube.com/playlist?list=PLs6rMe3K87LG2gv1i1ATURIhcH84fdGX4) _By Alex Kontorovich (2020)_
@@ -12,12 +18,9 @@ This is an awesome collection of courses, training workshops and individual trai
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - YouTube videos
     
 * [Interractive ML Math with Excercises](https://www.tensortonic.com/ml-math) _TensorTonic_ interractive tutoring of Machine Learning threory and practice
-
-* 🔥[Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
-  * [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
  
 * [Multi-Agent Reinforcement Learning](https://github.com/marl-book/slides)
-  * Course Videos](https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2)
+  * [Course Videos](https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2)
   * [Exercises](https://github.com/marl-book/marl-book-exercises)
   * [Book Website](https://marl-book.com/)
   
