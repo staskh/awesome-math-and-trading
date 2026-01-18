@@ -5,6 +5,8 @@
 
 * 🔥 [Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
   * [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
+  * [Textbook (Amazon)](https://amzn.to/4iVvvbD)
+  * [Textbook (PDF)](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
  
 * 🔜 [tinyTORCH - Build Your Own ML Framework](https://mlsysbook.ai/tinytorch/intro.html) Step-by-step lab on building a minimal Torch library. From tensors to systems. An educational framework for building and optimizing ML—understand how PyTorch, TensorFlow, and JAX really work. Companion lab to the [Machine Learning Systems](https://mlsysbook.ai/book/) book.
 
