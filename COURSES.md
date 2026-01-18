@@ -1,7 +1,7 @@
 This is an awesome collection of courses, training workshops and individual training videos/slides.
 
 
-# Math, Machine Learning, AI courses
+# Machine Learning Courses
 
 * 🔥[Introduction to Statistical Learning with applications in Python (ISLP)](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) _Stanford University (2024)_
   * [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
@@ -12,14 +12,11 @@ This is an awesome collection of courses, training workshops and individual trai
   * [YouTube Videos](https://www.youtube.com/playlist?list=PLGK6tAsp1smbj8Ga4JHcgzGNbXArity-c)
 
 * [LLM Agents - Advanced](https://rdi.berkeley.edu/adv-llm-agents/sp25) _Berkeley CS294/194-280 (2025)_ Advanced course on Large Language MOdel Ahents. Includes Slides and **Videos**
-  * [YouTube Videos](https://www.youtube.com/playlist?list=PLGK6tAsp1smbOZq69ojpQQq7P5QbHM7Rr) 
-
-* [History of Mathematics](https://www.youtube.com/playlist?list=PLs6rMe3K87LGdOC9RVxhcPkh3AIkXWo7V) _By Alex Kontorovich (2024)_
-  
-* [Mathematical Statistics](https://www.youtube.com/playlist?list=PLs6rMe3K87LG2gv1i1ATURIhcH84fdGX4) _By Alex Kontorovich (2020)_
-
-* [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/) _MIT (2008)_ This course teaches the art of guessing results and solving problems without doing a proof or an exact calculation. Techniques include extreme-cases reasoning, dimensional analysis, successive approximation, discretization, generalization, and pictorial analysis.
-
+  * [YouTube Videos](https://www.youtube.com/playlist?list=PLGK6tAsp1smbOZq69ojpQQq7P5QbHM7Rr)
+ 
+* [Transformers & LLMs](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy) _Stanford CME295 Transformers & LLMs (2025)_
+  * [Course homepage](https://cme295.stanford.edu/)
+    
 * [Introduction to Deep Learning](https://introtodeeplearning.com/2025/) _My MIT (2025)_
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - YouTube videos
     
@@ -36,7 +33,14 @@ This is an awesome collection of courses, training workshops and individual trai
 
 * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) Practical walkthrough of using Claude Code to accelerate your development workflow
 
-* 
+# General Math Courses
+
+* [History of Mathematics](https://www.youtube.com/playlist?list=PLs6rMe3K87LGdOC9RVxhcPkh3AIkXWo7V) _By Alex Kontorovich (2024)_
+  
+* [Mathematical Statistics](https://www.youtube.com/playlist?list=PLs6rMe3K87LG2gv1i1ATURIhcH84fdGX4) _By Alex Kontorovich (2020)_
+
+* [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/pages/readings/) _MIT (2008)_ This course teaches the art of guessing results and solving problems without doing a proof or an exact calculation. Techniques include extreme-cases reasoning, dimensional analysis, successive approximation, discretization, generalization, and pictorial analysis.
+
 
 # Options Trading
 
