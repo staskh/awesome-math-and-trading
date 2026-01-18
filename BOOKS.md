@@ -1,8 +1,8 @@
-An awesome collection of [mostly free] books on machine learning, AI, Finencial Mathematics and Options Trading. 
+> An awesome collection of [mostly free] books on machine learning, AI, Financial Mathematics, and Options Trading. As far as we know, all free books listed here are made available online with explicit author permission or via official author/academic sources. If, however, you discover any material here that may be in violation of copyright, please contact us and we will promptly remove it.
 
 # Machine Learning
 
-* 🔥 [Introduction to Statistical Learning with applications in Python (ISLP)](https://amzn.to/4iVvvbD) _By by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani , Jonathan Taylor_ (2023)
+* 🔥 [Introduction to Statistical Learning with applications in Python (ISLP)](https://amzn.to/4iVvvbD) _By Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (2023)_
 The book adopts a hands-on, practical approach to teaching statistical learning, featuring numerous examples and case studies, accompanied by Python code for implementation.
   * [Free PDF version by Authors](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
   * [Associated Lab Notebooks](https://github.com/intro-stat-learning/ISLP_labs/tree/stable)
@@ -10,17 +10,17 @@ The book adopts a hands-on, practical approach to teaching statistical learning,
   * [YouTube Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
     
 * 🔥 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://amzn.to/48T6EjY) _By Trevor Hastie, Robert Tibshirani, Jerome Friedman_ (2009)
-While more recent _Introduction to Statistical Learning_ focused  on hands-on approach, this book provides in depth mathematical considerations behind statistical learning.
+While the more recent _Introduction to Statistical Learning_ is focused on a hands-on approach, this book provides in-depth mathematical considerations behind statistical learning.
   * [Free PDF version by Authors](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf.download.html)
  
-* 🔥 [Python for Data Analysis, 3rd Edition](https://amzn.to/4q9wLuC) _By Wes McKinney (2022)_ Writen by the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python. Updated for Python 3.10 and pandas 1.4, the third edition of this hands-on guide is packed with practical case studies that show you how to solve a broad set of data analysis problems effectively.
+* 🔥 [Python for Data Analysis, 3rd Edition](https://amzn.to/4q9wLuC) _By Wes McKinney (2022)_ Written by the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python. Updated for Python 3.10 and pandas 1.4, the third edition of this hands-on guide is packed with practical case studies that show you how to solve a broad set of data analysis problems effectively.
   * [Free online version by Author](https://wesmckinney.com/book/)
   * [GitHub with Notebooks and Examples](https://github.com/wesm/pydata-book)
  
 * :soon: [Interpretable Machine Learning (Free)](https://christophm.github.io/interpretable-ml-book/) _By Christoph Molnar (2025)_  This book is about interpretable machine learning. Machine learning is being built into many products and processes of our daily lives, yet decisions made by machines don't automatically come with an explanation. An explanation increases the trust in the decision and in the machine learning model.
   * [Scripts and data](https://github.com/christophM/interpretable-ml-book) - Associated Python and R scripts 
 
-* [Forecasting: Principles and Practice (3d ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
+* [Forecasting: Principles and Practice (3rd ed, R)](https://amzn.to/4p4ZHCM) _By Rob J Hyndman, George Athanasopoulos_ (2021) This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly. **Examples use R** with many data sets taken from the authors' own consulting experience
   * [Free Online Version (with videos)](https://otexts.com/fpp3/)
   * [Lectures Videos (YouTube)](https://www.youtube.com/playlist?list=PLyCNZ_xXGzpm7W9jLqbIyBAiSO5jDwJeE)
   * [Forecasting: Principles and Practice, the Pythonic Way](https://otexts.com/fpppy/) - Python version of above, no videos. Free Online version.
@@ -29,20 +29,20 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
 
   * [Authors website](https://mml-book.github.io/)
   * [FreePDF version by Authors](https://mml-book.github.io/book/mml-book.pdf)
-  * [GitHub with additional matherial](https://github.com/mml-book/mml-book.github.io)
+  * [GitHub with additional material](https://github.com/mml-book/mml-book.github.io)
 
 
-* [Foundations of Machine Learning,2d ed](https://amzn.to/44W4dME) _By Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2018)_ This book is a general introduction to machine learning that can serve as a textbook for graduate students and a reference for researchers. It covers fundamental modern topics in machine learning while providing the theoretical basis and conceptual tools needed for the discussion and justification of algorithms. It also describes several key aspects of the application of these algorithms.
+* [Foundations of Machine Learning, 2nd ed](https://amzn.to/44W4dME) _By Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2018)_ This book is a general introduction to machine learning that can serve as a textbook for graduate students and a reference for researchers. It covers fundamental modern topics in machine learning while providing the theoretical basis and conceptual tools needed for the discussion and justification of algorithms. It also describes several key aspects of the application of these algorithms.
   * [Book Website](https://cs.nyu.edu/~mohri/mlbook/)
   * [Free Online version by Authors](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover)
   * [Free PDF version by Authors](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1)
   
 # Deep Learning
 
-* :soon: [Machine Learning Systems (Free Online version)](https://mlsysbook.ai/book/) _By Vijay Janapa Reddi/Harvard University (2026)_ This textbook bridges the gap between theoretical foundations and practical engineering, emphasizing the systems perspective required to build effective AI solutions. Learning matherial for CS249r at Harvard University.
+* :soon: [Machine Learning Systems (Free Online version)](https://mlsysbook.ai/book/) _By Vijay Janapa Reddi/Harvard University (2026)_ This textbook bridges the gap between theoretical foundations and practical engineering, emphasizing the systems perspective required to build effective AI solutions. Learning material for CS249r at Harvard University.
   * [Free PDF version by Author](https://mlsysbook.ai/book/assets/downloads/Machine-Learning-Systems.pdf)
   * [GitHub repository with Labs](https://github.com/harvard-edge/cs249r_book)
-  * [TinyTorch - build your own AI/ML framework](https://mlsysbook.ai/tinytorch/intro.html)) - build it yourself companion to _Machine Learning Systems_
+  * [TinyTorch - build your own AI/ML framework](https://mlsysbook.ai/tinytorch/intro.html) - build-it-yourself companion to _Machine Learning Systems_
     
 * 🔥 [Dive into Deep Learning (D2L)](https://amzn.to/48C3Nx7) _By Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola_ (2023) This book is a comprehensive resource that makes deep learning approachable, while still providing sufficient technical depth to enable engineers, scientists, and students to use deep learning in their own work. No previous background in machine learning or deep learning is required―every concept is explained from scratch and the appendix provides a refresher on the mathematics needed. Runnable code is featured throughout, allowing you to develop your own intuition by putting key ideas into practice. Covers implementations with  PyTorch, NumPy/MXNet, JAX, and TensorFlow
   * [Free PDF by Authors (PyTorch version)](https://d2l.ai/d2l-en.pdf)
@@ -51,10 +51,10 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
   * [Deep Learning UC Berkeley STAT-157 2019 (YouTube)](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 
 * [Understanding Deep Learning](https://amzn.to/3YwrReI) _By Simon J.D. Prince_ (2023) An authoritative, accessible, and up-to-date treatment of deep learning that strikes a pragmatic middle ground between theory and practice.
-  * [Author website with blog andother resources](https://udlbook.github.io/udlbook/) 
+  * [Author website with blog and other resources](https://udlbook.github.io/udlbook/) 
   * [Free PDF version by Author](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf)
   * [Notebooks](https://github.com/staskh/udlbook/tree/main/Notebooks)
-  * [Video Letures (YouTube)](https://udlbook.github.io/udlbook/)
+  * [Video Lectures (YouTube)](https://udlbook.github.io/udlbook/)
  
 * [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://amzn.to/4jt9n8G) _By Stefano V. Albrecht,  Filippos Christianos,  Lukas Schäfer (2024)_ The first comprehensive introduction to multi-agent reinforcement learning, an area of machine learning in which multiple decision-making agents learn to optimally interact in a shared environment.
   * [Book website](https://marl-book.com/)
@@ -82,7 +82,7 @@ While more recent _Introduction to Statistical Learning_ focused  on hands-on ap
 The Black-Scholes Model (with a proof) and option pricing are introduced in an easy-to-understand yet thorough manner.
 [PDF Version](https://github.com/PlamenStilyianov/FinMathematics/blob/master/The%20Mathematics%20Of%20Financial%20Derivatives.pdf)
 
-* :soon: [An Introduction to Computational Finance Without Agonizing Pain (Free PDF)](https://cs.uwaterloo.ca/~paforsyt/agon.pdf) _by Peter Forsyth_ (2022) Very similar to _The Mathematics of Financial Derivatives_,yet not as eloborative. designed for senior undergraduates. 
+* :soon: [An Introduction to Computational Finance Without Agonizing Pain (Free PDF)](https://cs.uwaterloo.ca/~paforsyt/agon.pdf) _by Peter Forsyth_ (2022) Very similar to _The Mathematics of Financial Derivatives_, yet not as elaborate, designed for senior undergraduates. 
 
 * :soon: [Tidy Finance with Python](https://amzn.to/4aKk84c) _By Christoph Scheuch, Stefan Voigt, Patrick Weiss, Christoph Frey_ (2024) This textbook shows how to bring theoretical concepts from finance and econometrics to the data. Focusing on coding and data analysis with Python, we show how to conduct research in empirical finance from scratch. The empirical applications range from key concepts of empirical asset pricing (beta estimation, portfolio sorts, performance analysis, Fama-French factors) to modeling and machine learning applications (fixed effects estimation, clustering standard errors, difference-in-difference estimators, ridge regression, Lasso, Elastic net, random forests, neural networks) and portfolio optimization techniques.
   * [FREE Online Version by Authors](https://www.tidy-finance.org/python/)
@@ -91,11 +91,11 @@ The Black-Scholes Model (with a proof) and option pricing are introduced in an e
   * [FREE PDF Version BY Authors](https://github.com/QuantEcon/book-dp1-public/raw/main/pdf/dp.pdf)
   * [Associated Python Code](https://github.com/QuantEcon/book-dp1-public/tree/main/code/py)
   
-* [Advances in Financial Machine Learning](https://amzn.to/3KG34Sp) _By Marcos M. LŁpez de Prado_
-  * [Associated Code & Exersises](https://github.com/fernandodelacalle/adv-financial-ml-marcos-exercises/tree/master)
+* [Advances in Financial Machine Learning](https://amzn.to/3KG34Sp) _By Marcos M. Lopez de Prado_
+  * [Associated Code & Exercises](https://github.com/fernandodelacalle/adv-financial-ml-marcos-exercises/tree/master)
  
-* [Machine Learning for Asset Managers](https://amzn.to/3MysbHj0) _By Marcos M. LŁpez de Prado_
-IMHO, very advanced and disconnected set of articles. Requires (at least for me) a lot of preparation and learning
+* [Machine Learning for Asset Managers](https://amzn.to/3MysbHj0) _By Marcos M. Lopez de Prado_
+IMHO, a very advanced and disconnected set of articles. Requires (at least for me) a lot of preparation and learning
 
 * [The Elements of Quantitative Investing](https://amzn.to/4rVKrdZ) _By Giuseppe A. Paleologo_ (2025) Expert real-world insight on the intricacies of quantitative trading before, during, and after the trade
 
@@ -106,23 +106,23 @@ IMHO, very advanced and disconnected set of articles. Requires (at least for me)
 # Options Trading
 
 * 🔥 [Option Volatility and Pricing](https://amzn.to/4pBKzO0) _By Sheldon Netenberg_ (2015) 
-The bestselling Option Volatility & Pricing has made Sheldon Natenberg a widely recognized authority in the option industry. At firms around the world, the text is often the first book that new professional traders aregiven to learn the trading strategies and risk management techniques required for success in option markets.
+The bestselling Option Volatility & Pricing has made Sheldon Natenberg a widely recognized authority in the option industry. At firms around the world, the text is often the first book that new professional traders are given to learn the trading strategies and risk management techniques required for success in option markets.
 
 * 🔥 [Trading Option Greeks](https://amzn.to/3MCuyc8) _By Dan Passarelli_ (2013)
 A top options trader details a practical approach for pricing and trading options in any market condition 
 The options market is always changing, and in order to keep up with it you need the greeks―delta, gamma, theta, vega, and rho―which are the best techniques for valuing options and executing trades regardless of market conditions. In the Second Edition of Trading Options Greeks, veteran options trader Dan Pasarelli puts these tools in perspective by offering fresh insights on option trading and valuation.
 
-  IMHO, a lot of similarities with "Option Volatility and Pricing" , but much easy to understand and follow paractical recomendation on spread, stradle, batterfly and other option trading startegies
+  IMHO, a lot of similarities with "Option Volatility and Pricing", but much easier to understand and follow practical recommendations on spread, straddle, butterfly and other option trading strategies
 
 * [Trading Volatility: Trading Volatility, Correlation, Term Structure and Skew](https://amzn.to/4oMZFit) _By Colin Bennett_ (2014) This publication aims to fill the void between books providing an introduction to derivatives, and advanced books whose target audience are members of quantitative modelling community. In order to appeal to the widest audience, this publication tries to assume the least amount of prior knowledge. The content quickly moves onto more advanced subjects in order to concentrate on more practical and advanced topics.
   * [Free PDF version by Author](https://www.trading-volatility.com/Trading-Volatility.pdf)
 
-* [How I Built My Trading Career as a Finance Outsider: A Case Study](https://docs.google.com/document/d/1qxn3WzDTvZstp3da8YuwENuCrpSmt37qd1icyGiiwRY/edit?tab=t.0#heading=h.1b7tw86au78f) _By Kris Longmore_ Personal story of jorney from an engineed to option trader.
+* [How I Built My Trading Career as a Finance Outsider: A Case Study](https://docs.google.com/document/d/1qxn3WzDTvZstp3da8YuwENuCrpSmt37qd1icyGiiwRY/edit?tab=t.0#heading=h.1b7tw86au78f) _By Kris Longmore_ Personal story of journey from an engineer to option trader.
  
 * [The Thetapig Letters](https://moontower.substack.com/api/v1/file/cc11cffc-a00a-4c68-961e-12bdb532d4d9.pdf) _By Euan Sinclair_ (2015) The Thetapig Letters is a cult-classic series of fictional epistolary tales by options trader and author Euan Sinclair, presented as letters between a manipulative mentor ("Theta Pig") and his naive understudy ("Backtest"), subtly teaching complex options trading concepts by detailing traps, misdirections, and psychological pitfalls for aspiring traders, published through Sinclair's Moontower platform. It's a unique blend of trading education and narrative fiction, focusing on the why and how of option market dynamics, especially volatility.
   * [Euan Sinclair on Retail vs Institutional Trading | The Outlier Podcast](https://www.youtube.com/watch?v=EjD6KPo3OZs)
 
-## Articles & WhitePapers
+## Articles & White Papers
 * [Options Pricing](https://optionalpha.com/topics/options-pricing) _By OptionAlpha.com_ A FREE complete guide to options contract pricing, intrinsic and extrinsic value, the Black-Scholes model, and more.
   
 * [Gamma Scalping: A Primer](https://www.schwab.com/learn/story/gamma-scalping-primer) Gamma scalping—also called delta-neutral trading—is an options strategy designed to help traders navigate pricing volatility.
@@ -131,7 +131,7 @@ The options market is always changing, and in order to keep up with it you need 
 
 * [Reading, Writing and Drawdown Arithmetic](https://byfire.substack.com/p/reading-writing-and-drawdown-arithmetic) _By Paleologo_ Probability of a Drawdown Occurring within a Future Date
 
-* [The Original Turtle Trading Rules](https://www.tradingwithrayner.com/wp-content/uploads/2014/11/OriginalTurtleRules.pdf) (2008) The system provides answers for each of the decisions a trader must make while trading. The system makes it easier for a trader to trade consistently because there are a set of rules which specifically define what should be done. The mechanics of trading is not left up to the judgment of the trader.
+* [The Original Turtle Trading Rules](https://www.tradingwithrayner.com/wp-content/uploads/2014/11/OriginalTurtleRules.pdf) (2008) The system provides answers for each of the decisions a trader must make while trading. The system makes it easier for a trader to trade consistently because there is a set of rules which specifically define what should be done. The mechanics of trading are not left up to the judgment of the trader.
 
 # Algorithmic Trading
 

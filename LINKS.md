@@ -1,10 +1,11 @@
-# Links Collections
+# Links Collection
+> This page is a curated collection of links to high-quality open access resources, books, and repositories focused on data science, mathematics, machine learning, algorithmic trading, quantitative finance, and related academic topics. Each entry includes a brief description to help you quickly find materials for study or research.
 
 * 🔥[An anthology of open access data science materials](https://anthology-of-data.science/books.html) An excellent collection of open access books on Data Science and Machine Learning
 
 * 🔥[Awesome_Math_Books](https://github.com/valeman/Awesome_Math_Books)
-Curated list of Math book by [Valery Manokhin](https://valeriy.ai/). 
-Focus on classical math, theory of probablility, statistics and machine learning.
+Curated list of Math books by [Valery Manokhin](https://valeriy.ai/). 
+Focus on classical math, theory of probability, statistics and machine learning.
 A lot of Soviet Mathematics books (Kolmogorov, Zeldovich, Gnedenko and others).
 All books are available for free in PDF.
 
