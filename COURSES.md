@@ -31,7 +31,8 @@
 
 # Vibe Coding (Cursor, Claude, etc)
 
-* [Agent Skills with Anthropic](https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/) Join this new short course on Agent Skills, built in partnership with Anthropic and taught by Elie Schoppik.
+* 🔥 [Agent Skills with Anthropic](https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/) Join this new short course on Agent Skills, built in partnership with Anthropic and taught by Elie Schoppik. **MUST** for everyone working with Claude and beyond!
+  * [Course Materials, code and notes](https://github.com/https-deeplearning-ai/sc-agent-skills-files) 
 
 * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) Practical walkthrough of using Claude Code to accelerate your development workflow
 
