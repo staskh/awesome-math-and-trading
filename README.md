@@ -1,9 +1,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/staskh/awesome-math-and-trading?style=social)
 ![License](https://img.shields.io/github/license/staskh/awesome-math-and-trading)
 ![Last commit](https://img.shields.io/github/last-commit/staskh/awesome-math-and-trading)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome Math & Trading
+
+# Awesome Math & Trading [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of high-quality resources on mathematics, statistics, machine learning, and quantitative trading.
 
