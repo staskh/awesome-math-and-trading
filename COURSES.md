@@ -8,6 +8,8 @@
  
 * 🔜 [tinyTORCH - Build Your Own ML Framework](https://mlsysbook.ai/tinytorch/intro.html) Step-by-step lab on building a minimal Torch library. From tensors to systems. An educational framework for building and optimizing ML—understand how PyTorch, TensorFlow, and JAX really work. Companion lab to the [Machine Learning Systems](https://mlsysbook.ai/book/) book.
 
+* [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter0/1) 
+
 * [LLM Agents - Introduction](https://rdi.berkeley.edu/llm-agents/f24) _Berkeley CS294/194-196 (2024)_ Introduction course on Large Language Model Agents. Includes Slides and **Videos**
   * [YouTube Videos](https://www.youtube.com/playlist?list=PLGK6tAsp1smbj8Ga4JHcgzGNbXArity-c)
 
