@@ -19,6 +19,12 @@
 
 * [Interactive ML Math with Exercises](https://www.tensortonic.com/ml-math) _TensorTonic_ interactive tutoring of Machine Learning theory and practice
 
+* [Selene](https://chrisvdweth.github.io/selene/) - Jupyter notebook collection that cover many topics you are interested in great detail, and some come with concrete examples using PyTorch.
+  * Linear Regression ([basics](https://github.com/chrisvdweth/selene/blob/master/notebooks/linear_regression_basics.ipynb), [math](https://github.com/chrisvdweth/selene/blob/master/notebooks/linear_regression_math.ipynb), [assumptions](https://github.com/chrisvdweth/selene/blob/master/notebooks/linear_regression_assumptions_caveats.ipynb))  
+  * Logistic Regression ([basics](https://github.com/chrisvdweth/selene/blob/master/notebooks/logistic_regression_basics.ipynb), [math](https://github.com/chrisvdweth/selene/blob/master/notebooks/logistic_regression_math.ipynb))  
+  * Neural networks ([ANNs](https://github.com/chrisvdweth/selene/blob/master/notebooks/artificial_neural_networks_basics.ipynb), [RNNs](https://github.com/chrisvdweth/selene/blob/master/notebooks/recurrent_neural_networks_basics.ipynb), [text classification with RNNs](https://github.com/chrisvdweth/selene/blob/master/notebooks/text_classification_rnn.ipynb), [language modeling with RNNs](https://github.com/chrisvdweth/selene/blob/master/notebooks/recurrent_neural_networks_language_model.ipynb), [training an ANN from scratch](https://github.com/chrisvdweth/selene/blob/master/notebooks/ann_from_scratch_numpy_only.ipynb))
+  * Transformers ([attention](https://github.com/chrisvdweth/selene/blob/master/notebooks/attention_mha_basics.ipynb), [basic architecture](https://github.com/chrisvdweth/selene/blob/master/notebooks/transformers_basic_architecture.ipynb), [positional encodings](https://github.com/chrisvdweth/selene/blob/master/notebooks/positional_encodings_overview.ipynb), [masking](https://github.com/chrisvdweth/selene/blob/master/notebooks/masking_sequence_models.ipynb), [machine translation with transformers](https://github.com/chrisvdweth/selene/blob/master/notebooks/machine_translation_transformers.ipynb), [language modeling with transformers](https://github.com/chrisvdweth/selene/blob/master/notebooks/llm_building_gptstyle_llm_from_scratch.ipynb))
+
 # Deep Learning
  
 * 🔜 [tinyTORCH - Build Your Own ML Framework](https://mlsysbook.ai/tinytorch/intro.html) Step-by-step lab on building a minimal Torch library. From tensors to systems. An educational framework for building and optimizing ML—understand how PyTorch, TensorFlow, and JAX really work. Companion lab to the [Machine Learning Systems](https://mlsysbook.ai/book/) book.
@@ -27,6 +33,7 @@
   * [Videos: MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - YouTube videos
   
 * [Deep Reinforcement Learning and Control](https://www.andrew.cmu.edu/course/10-703/#readings) _Carnegie Mellon University (2018)_
+
 
 # LLM and Agents
 
