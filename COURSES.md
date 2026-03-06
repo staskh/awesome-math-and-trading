@@ -10,6 +10,8 @@
  
 * 🔜 [tinyTORCH - Build Your Own ML Framework](https://mlsysbook.ai/tinytorch/intro.html) Step-by-step lab on building a minimal Torch library. From tensors to systems. An educational framework for building and optimizing ML—understand how PyTorch, TensorFlow, and JAX really work. Companion lab to the [Machine Learning Systems](https://mlsysbook.ai/book/) book.
 
+* 🤗[LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter0/1) 
+
 * [LLM Agents - Introduction](https://rdi.berkeley.edu/llm-agents/f24) _Berkeley CS294/194-196 (2024)_ Introduction course on Large Language Model Agents. Includes Slides and **Videos**
   * [YouTube Videos](https://www.youtube.com/playlist?list=PLGK6tAsp1smbj8Ga4JHcgzGNbXArity-c)
 
@@ -32,6 +34,12 @@
 * [Deep Reinforcement Learning and Control](https://www.andrew.cmu.edu/course/10-703/#readings) _Carnegie Mellon University (2018)_
 
 # Vibe Coding (Cursor, Claude, etc)
+
+* 🔥 [Agent Skills with Anthropic](https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/) _By DeepLearning.AI_ Join this new short course on Agent Skills, built in partnership with Anthropic and taught by Elie Schoppik. **MUST** for everyone working with Claude and beyond!
+  * [Course Materials, code and notes](https://github.com/https-deeplearning-ai/sc-agent-skills-files)
+ 
+* 🔥 [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistan) _By DeepLearning.AI_ Welcome to Claude Code, the Highly Agentic Coding Assistant. This short course is built in partnership with Anthropics.
+  * [Course Materials, code and notes](https://github.com/https-deeplearning-ai/sc-claude-code-files)
 
 * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) Practical walkthrough of using Claude Code to accelerate your development workflow
 
