@@ -68,23 +68,30 @@ While the more recent _Introduction to Statistical Learning_ is focused on a han
   * [Notebooks](https://github.com/staskh/udlbook/tree/main/Notebooks)
   * [Video Lectures (YouTube)](https://udlbook.github.io/udlbook/)
  
+* [Probabilistic Machine Learning: An introduction (Book 1)](https://amzn.to/49du6tS) _By Kevin P. Murphy (2022)_ A detailed and up-to-date introduction to machine learning, presented through the unifying lens of probabilistic modeling and Bayesian decision theory.
+  * [Book website](https://probml.github.io/pml-book/book1.html)
+  * [FREE PDF version by author](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+  * [Codebase](https://github.com/probml/pyprobml/tree/master/notebooks/book1)
+ 
+* [Probabilistic Machine Learning: Advanced Topics (Book 2)](https://amzn.to/4q6FnlD) _By Kevin P. Murphy (2023)_ An advanced book for researchers and graduate students working in machine learning and statistics who want to learn about deep learning, Bayesian inference, generative models, and decision making under uncertainty.
+  * [Book website](https://probml.github.io/pml-book/book2.html)
+  * [FREE PDF version by author](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf)
+  * [Codebase](https://github.com/probml/pyprobml/tree/master/notebooks/book2)
+
+# LLM and Agents
+
+* [Hands-On Large Language Models](https://amzn.to/4udFVIX) _By Jay Alammar, Maarten Grootendorst (2025)_ - Through the visually educational nature of this book and with almost 300 custom made figures, learn the practical tools and concepts you need to use Large Language Models today!
+  * [Associated Code & Labs](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+  * [Maarten Grootendorst Blog](https://newsletter.maartengrootendorst.com/)
+    
+ 
 * [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://amzn.to/4jt9n8G) _By Stefano V. Albrecht,  Filippos Christianos,  Lukas Schäfer (2024)_ The first comprehensive introduction to multi-agent reinforcement learning, an area of machine learning in which multiple decision-making agents learn to optimally interact in a shared environment.
   * [Book website](https://marl-book.com/)
   * [FREE PDF version by Authors](https://marl-book.com/download/)
   * [Course Videos](https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2)
   * [Course slides](https://github.com/marl-book/slides)
   * [Exercises](https://github.com/marl-book/marl-book-exercises)
- 
-* [Probabilistic Machine Learning: An introduction](https://amzn.to/49du6tS) _By Kevin P. Murphy (2022)_ A detailed and up-to-date introduction to machine learning, presented through the unifying lens of probabilistic modeling and Bayesian decision theory.
-  * [Book website](https://probml.github.io/pml-book/book1.html)
-  * [FREE PDF version by author](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
-  * [Codebase](https://github.com/probml/pyprobml/tree/master/notebooks/book1)
- 
-* [Probabilistic Machine Learning: Advanced Topics](https://amzn.to/4q6FnlD) _By Kevin P. Murphy (2023)_ An advanced book for researchers and graduate students working in machine learning and statistics who want to learn about deep learning, Bayesian inference, generative models, and decision making under uncertainty.
-  * [Book website](https://probml.github.io/pml-book/book2.html)
-  * [FREE PDF version by author](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf)
-  * [Codebase](https://github.com/probml/pyprobml/tree/master/notebooks/book2)
-    
+
 # Financial Mathematics
 
 * 🔥🔥 [The (mis) Behavior of Markets](https://amzn.to/49aGpXy) _By Benoit Mandelbrot_(2004)
