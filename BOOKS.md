@@ -7,6 +7,7 @@
 
 - [Machine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
+- [LLM and Agents](#llm-and-agents)
 - [Financial Mathematics](#financial-mathematics)
 - [Options Trading](#options-trading)
   - [Articles & White Papers](#articles--white-papers)
