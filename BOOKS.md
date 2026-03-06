@@ -1,4 +1,16 @@
+
+
+
 > An awesome collection of [mostly free] books on machine learning, AI, Financial Mathematics, and Options Trading. As far as we know, all free books listed here are made available online with explicit author permission or via official author/academic sources. If, however, you discover any material here that may be in violation of copyright, please contact us and we will promptly remove it.
+
+## Table of Contents
+
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [Financial Mathematics](#financial-mathematics)
+- [Options Trading](#options-trading)
+  - [Articles & White Papers](#articles--white-papers)
+- [Algorithmic Trading](#algorithmic-trading)
 
 # Machine Learning
 
