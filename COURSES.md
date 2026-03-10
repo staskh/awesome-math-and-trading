@@ -71,6 +71,7 @@
 * 🔥 [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) Practical walkthrough of using Claude Code to accelerate your development workflow
 
 # General Math Courses
+* [Probability for Computer Scientists. Stanford CS109](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
 
 * [History of Mathematics](https://www.youtube.com/playlist?list=PLs6rMe3K87LGdOC9RVxhcPkh3AIkXWo7V) _By Alex Kontorovich (2024)_
   
