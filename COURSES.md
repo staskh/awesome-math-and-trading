@@ -27,7 +27,13 @@
   * Transformers ([attention](https://github.com/chrisvdweth/selene/blob/master/notebooks/attention_mha_basics.ipynb), [basic architecture](https://github.com/chrisvdweth/selene/blob/master/notebooks/transformers_basic_architecture.ipynb), [positional encodings](https://github.com/chrisvdweth/selene/blob/master/notebooks/positional_encodings_overview.ipynb), [masking](https://github.com/chrisvdweth/selene/blob/master/notebooks/masking_sequence_models.ipynb), [machine translation with transformers](https://github.com/chrisvdweth/selene/blob/master/notebooks/machine_translation_transformers.ipynb), [language modeling with transformers](https://github.com/chrisvdweth/selene/blob/master/notebooks/llm_building_gptstyle_llm_from_scratch.ipynb))
  
 * [Machine Learning Course. Stanford CS229. Video](https://cs229.stanford.edu/syllabus-summer2019.html) _By By Andrew Ng (2018)_ This course provides a broad introduction to machine learning and statistical pattern recognition. You will learn about both supervised and unsupervised learning as well as learning theory, reinforcement learning and control. Explore recent applications of machine learning and design and develop algorithms for machines.
-  * [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 
+  * [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) - original 2018 Andrew Ng lectures
+  * Background math and lecture notes:
+    * [Linear Algebra](https://cs229.stanford.edu/summer2019/cs229-linalg.pdf)
+    * [Probability Theory](https://cs229.stanford.edu/summer2019/cs229-prob.pdf)
+    * [Supervised Learning](https://cs229.stanford.edu/summer2019/cs229-notes1.pdf)
+    * [Generative Algorithms](https://cs229.stanford.edu/summer2019/cs229-notes2.pdf)
+    * [...More notes](https://cs229.stanford.edu/syllabus-summer2019.html)
 
 # Deep Learning
 
