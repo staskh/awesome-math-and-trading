@@ -78,6 +78,8 @@
 
 # General Math Courses
 * [Probability for Computer Scientists. Stanford CS109](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
+  * [Course Notes](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) - chapter by chapter
+  * [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/ProbabilityForComputerScientists.pdf) - all-in-one PDF
 
 * [History of Mathematics](https://www.youtube.com/playlist?list=PLs6rMe3K87LGdOC9RVxhcPkh3AIkXWo7V) _By Alex Kontorovich (2024)_
   
