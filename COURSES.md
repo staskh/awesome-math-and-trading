@@ -77,7 +77,7 @@
 * 🔥 [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) Practical walkthrough of using Claude Code to accelerate your development workflow
 
 # General Math Courses
-* [Probability for Computer Scientists. Stanford CS109](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
+* [Probability for Computer Scientists. Stanford CS109](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) - _by Chris Piech (2022)_ 
   * [Course Notes (2026)](https://probabilitycoders.stanford.edu/win26)
   * [Course Notes (old)](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) - chapter by chapter
   * [Course Book (old)](https://chrispiech.github.io/probabilityForComputerScientists/en/ProbabilityForComputerScientists.pdf) - all-in-one PDF
