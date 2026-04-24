@@ -38,3 +38,6 @@ Open a PR or issue to suggest additions.
 If you find any material that may violate copyright or licensing terms,
 please open an issue or contact the maintainer so it can be removed.
 
+## AI Trading Bots
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
