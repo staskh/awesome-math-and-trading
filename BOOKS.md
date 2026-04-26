@@ -157,3 +157,5 @@ The options market is always changing, and in order to keep up with it you need 
 
 * [Python for Algorithmic Trading Cookbook](https://amzn.to/48NQdWc) _By Jason Strimpel_ (2024) Harness the power of Python libraries to transform freely available financial market data into algorithmic trading strategies and deploy them into a live trading environment.
   * [Notebooks, Examples, etc](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook)
+
+* [QUANT BIBLE | MIT Sloan Business Club](https://drive.google.com/file/d/1LO7D0C9FC-KHViThmTXfUTLyr6Wke5-f/view) This document, the "Quant Bible" by the MIT Sloan Business Club, serves as a comprehensive guide for students preparing for careers in quantitative finance. It emphasizes that while the industry has a competitive reputation, success is accessible to those who build strong foundations in mathematics and computer science

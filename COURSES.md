@@ -86,6 +86,8 @@
   * [Course Notes (old)](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) - chapter by chapter
   * [Course Book (old)](https://chrispiech.github.io/probabilityForComputerScientists/en/ProbabilityForComputerScientists.pdf) - all-in-one PDF
 
+* [Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) _By Gilbert Strang (MIT,2005)_
+
 * [History of Mathematics](https://www.youtube.com/playlist?list=PLs6rMe3K87LGdOC9RVxhcPkh3AIkXWo7V) _By Alex Kontorovich (2024)_
   
 * [Mathematical Statistics](https://www.youtube.com/playlist?list=PLs6rMe3K87LG2gv1i1ATURIhcH84fdGX4) _By Alex Kontorovich (2020)_

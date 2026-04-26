@@ -20,6 +20,7 @@ All links are carefully selected for depth and long-term usefulness.
 ## Contents
 
 - [BOOKS](BOOKS.md) — Books on ML, deep learning, financial mathematics, and options.
+- [LECTURES](LECTURES.md) — Lectures, keynotes, and long-form talks (mostly video) with notable speakers.
 - [COURSES](COURSES.md) — Courses, workshops, and video resources.
 - [LINKS](LINKS.md) — Link collections and reading roadmaps.
 
