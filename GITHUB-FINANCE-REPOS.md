@@ -292,7 +292,20 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 25. [warproxxx/poly-maker](https://github.com/warproxxx/poly-maker) — **1,112** ★
+### 25. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) — **1,120** ★
+
+**URL:** https://github.com/tradermonty/claude-trading-skills  
+
+**About:** Claude Code skills for equity investors and traders—market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+
+**Summary:** Claude Code–oriented skills for equities workflows (analysis, charting, calendars, screeners, strategy ideation); complementary to other agent/skill rows on this page.
+
+**Cited in:** [^8]
+
+
+---
+
+### 26. [warproxxx/poly-maker](https://github.com/warproxxx/poly-maker) — **1,112** ★
 
 **URL:** https://github.com/warproxxx/poly-maker  
 
@@ -304,7 +317,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 26. [ent0n29/polybot](https://github.com/ent0n29/polybot) — **483** ★
+### 27. [ent0n29/polybot](https://github.com/ent0n29/polybot) — **483** ★
 
 **URL:** https://github.com/ent0n29/polybot  
 
@@ -316,7 +329,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 27. [Polymarket/poly-market-maker](https://github.com/Polymarket/poly-market-maker) — **282** ★
+### 28. [Polymarket/poly-market-maker](https://github.com/Polymarket/poly-market-maker) — **282** ★
 
 **URL:** https://github.com/Polymarket/poly-market-maker  
 
@@ -328,7 +341,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 28. [pselamy/polymarket-insider-tracker](https://github.com/pselamy/polymarket-insider-tracker) — **112** ★
+### 29. [pselamy/polymarket-insider-tracker](https://github.com/pselamy/polymarket-insider-tracker) — **112** ★
 
 **URL:** https://github.com/pselamy/polymarket-insider-tracker  
 
@@ -340,7 +353,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 29. [NickNaskida/polymarket-insider-bot](https://github.com/NickNaskida/polymarket-insider-bot) — **25** ★
+### 30. [NickNaskida/polymarket-insider-bot](https://github.com/NickNaskida/polymarket-insider-bot) — **25** ★
 
 **URL:** https://github.com/NickNaskida/polymarket-insider-bot  
 
@@ -352,7 +365,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 30. [suislanchez/polymarket-insider-detector](https://github.com/suislanchez/polymarket-insider-detector) — **13** ★
+### 31. [suislanchez/polymarket-insider-detector](https://github.com/suislanchez/polymarket-insider-detector) — **13** ★
 
 **URL:** https://github.com/suislanchez/polymarket-insider-detector  
 
@@ -364,7 +377,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 31. [BRKME/Polymarket_insider](https://github.com/BRKME/Polymarket_insider) — **10** ★
+### 32. [BRKME/Polymarket_insider](https://github.com/BRKME/Polymarket_insider) — **10** ★
 
 **URL:** https://github.com/BRKME/Polymarket_insider  
 
@@ -378,7 +391,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ## Footnotes
 
-[^roundups]: Primary lists from [@gusik4ever](https://x.com/gusik4ever) ([^1]–[^5]), plus [^6] from [@ventry089](https://x.com/ventry089), plus an explicit curator add ([^7]).
+[^roundups]: Primary lists from [@gusik4ever](https://x.com/gusik4ever) ([^1]–[^5]), plus [^6] from [@ventry089](https://x.com/ventry089), plus explicit curator additions ([^7], [^8]).
 
 [^7]: [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) —added to this page directly (not sourced from [^1]–[^6]).
 
@@ -394,6 +407,8 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 [^6]: [@ventry089](https://x.com/ventry089), <https://x.com/ventry089/status/2048806850741600603>—video post; **`t.co` redirects** resolved to the eight rows above with **Cited in:** `[^6]` only. A ninth short link aimed at **`learningworship`/polymarket-latency-bot** returned **404** on GitHub when verified (not listed).
 
-[^stars]: `stargazers_count` via the public [GitHub REST API](https://docs.github.com/en/rest/repos/repos#get-a-repository), or README-scraped ★ where the API was throttled—last reorganized together with **`[^6]`** / **`[^7]`** entries.
+[^8]: [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) —same as [^7] (direct add to this page).
+
+[^stars]: `stargazers_count` via the public [GitHub REST API](https://docs.github.com/en/rest/repos/repos#get-a-repository), or README-scraped ★ where the API was throttled—last reorganized together with **`[^6]`** / **`[^7]`** / **`[^8]`** entries.
 
 [^repos]: “About” lines follow each repository’s public GitHub short description where noted; wording on GitHub may change after this file is saved.
