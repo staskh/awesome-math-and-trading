@@ -7,6 +7,8 @@
   * [Google colab for the video](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
   * [GitHub code](https://github.com/karpathy/ng-video-lecture)
 
+* [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) _By Andrej Karpathy_ Continuation of the “build a GPT” line of work: implement and train a GPT-2–class 124M-parameter model from scratch (data, training loop, engineering), in the same spirit as “Let’s build GPT” above and the [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) playlist.
+
 * [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) _By Richard Hamming (BellLabs, Turing Award)_
   * [Transcript](https://paulgraham.com/hamming.html) 
 
@@ -29,9 +31,6 @@
 
 * [A Quant's Perspective on the 2008 Financial Crisis](https://www.youtube.com/watch?v=VlOjcOp9a5U) _By Doug Costa (Susquehanna)_
 
-* [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY) _By Patrick Winston (MIT, 2018)
-
-
-
+* [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY) _By Patrick Winston (MIT, 2018)_
 
 
