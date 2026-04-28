@@ -23,6 +23,7 @@ All links are carefully selected for depth and long-term usefulness.
 - [LECTURES](LECTURES.md) — Lectures, keynotes, and long-form talks (mostly video) with notable speakers.
 - [COURSES](COURSES.md) — Courses, workshops, and video resources.
 - [LINKS](LINKS.md) — Link collections and reading roadmaps.
+- [GITHUB-FINANCE-REPOS](GITHUB-FINANCE-REPOS.md) — Finance-related GitHub repos from curated roundups, sorted by ★ with X sources in footnotes.
 
 ## Contributing
 
