@@ -1,22 +1,10 @@
 # Trending GitHub repos in finance
 
-Repositories surfaced in curated **X** threads and hand-picked additions[^roundups]; entries are **deduplicated**, sorted by **GitHub ★ stars (descending)**[^stars]. Each repo’s GitHub **About** blurb is summarized verbatim where possible[^repos].
+Repositories surfaced in curated **X** threads and hand-picked additions[^roundups]; entries are **deduplicated**, sorted by **GitHub ★ stars (descending)**[^stars] within the main list. A short **general research** subsection at the end holds repos aimed at broad research and agent tooling rather than trading execution—they would rank first if folded in, but are separated for clarity. Each repo’s GitHub **About** blurb is summarized verbatim where possible[^repos].
 
 ---
 
-### 1. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — **87,900** ★
-
-**URL:** https://github.com/msitarzewski/agency-agents  
-
-**About:** A complete AI agency at your fingertips—specialized agent roles (engineering, Reddit/community, QA, whimsy injection, reality checks), each with process and deliverable templates.
-
-**Summary:** Large library of Claude/OpenClaw-oriented “agency” personas and playbooks—not finance-specific, but often grouped with agent-driven trading/marketing tooling. Huge README-backed catalog (~147 agents referenced in README).
-
-**Cited in:** [^7]
-
----
-
-### 2. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) — **66,642** ★
+### 1. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) — **66,642** ★
 
 **URL:** https://github.com/OpenBB-finance/OpenBB  
 
@@ -28,7 +16,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 3. [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) — **57,506** ★
+### 2. [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) — **57,506** ★
 
 **URL:** https://github.com/virattt/ai-hedge-fund  
 
@@ -40,7 +28,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 4. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — **54,087** ★
+### 3. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — **54,087** ★
 
 **URL:** https://github.com/TauricResearch/TradingAgents  
 
@@ -52,7 +40,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 5. [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) — **49,508** ★
+### 4. [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) — **49,508** ★
 
 **URL:** https://github.com/freqtrade/freqtrade  
 
@@ -64,7 +52,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 6. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) — **42,540** ★
+### 5. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) — **42,540** ★
 
 **URL:** https://github.com/juspay/hyperswitch  
 
@@ -76,7 +64,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 7. [microsoft/qlib](https://github.com/microsoft/qlib) — **41,337** ★
+### 6. [microsoft/qlib](https://github.com/microsoft/qlib) — **41,337** ★
 
 **URL:** https://github.com/microsoft/qlib  
 
@@ -88,7 +76,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 8. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — **32,032** ★
+### 7. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — **32,032** ★
 
 **URL:** https://github.com/ZhuLinsen/daily_stock_analysis  
 
@@ -100,7 +88,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 9. [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) — **29,157** ★
+### 8. [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) — **29,157** ★
 
 **URL:** https://github.com/ashishpatel26/500-AI-Agents-Projects  
 
@@ -112,7 +100,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 10. [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) — **24,872** ★
+### 9. [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) — **24,872** ★
 
 **URL:** https://github.com/hsliuping/TradingAgents-CN  
 
@@ -124,7 +112,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 11. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — **24,202** ★
+### 10. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — **24,202** ★
 
 **URL:** https://github.com/mvanhorn/last30days-skill  
 
@@ -136,7 +124,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 12. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — **21,809** ★
+### 11. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — **21,809** ★
 
 **URL:** https://github.com/shiyu-coder/Kronos  
 
@@ -148,7 +136,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 13. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — **19,852** ★
+### 12. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — **19,852** ★
 
 **URL:** https://github.com/AI4Finance-Foundation/FinGPT  
 
@@ -160,19 +148,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 14. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — **19,597** ★
-
-**URL:** https://github.com/K-Dense-AI/scientific-agent-skills  
-
-**About:** Ready-to-use agent skills for research, science, engineering, analysis, finance, and writing.  
-
-**Summary:** Packaged skills usable with Claude-compatible agent setups—not a pricing/trading stack; aimed at repeatable research/analysis workflows including finance-themed skills. Roundup prose pointed at an `anthropic*/claude-scientific-skills`-style slug; canonical repo appears under **K-Dense-AI**.  
-
-**Cited in:** [^5]
-
----
-
-### 15. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) — **16,521** ★
+### 13. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) — **16,521** ★
 
 **URL:** https://github.com/Fincept-Corporation/FinceptTerminal  
 
@@ -184,7 +160,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 16. [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) — **15,376** ★
+### 14. [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) — **15,376** ★
 
 **URL:** https://github.com/tradingview/lightweight-charts  
 
@@ -196,7 +172,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 17. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) — **13,783** ★
+### 15. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) — **13,783** ★
 
 **URL:** https://github.com/HKUDS/AI-Trader  
 
@@ -208,7 +184,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 18. [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) — **12,296** ★
+### 16. [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) — **12,296** ★
 
 **URL:** https://github.com/NoFxAiOS/nofx  
 
@@ -220,7 +196,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 19. [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) — **10,437** ★
+### 17. [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) — **10,437** ★
 
 **URL:** https://github.com/ValueCell-ai/valuecell  
 
@@ -232,7 +208,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 20. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — **3,370** ★
+### 18. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — **3,370** ★
 
 **URL:** https://github.com/HKUDS/Vibe-Trading  
 
@@ -244,7 +220,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 21. [Polymarket/agents](https://github.com/Polymarket/agents) — **3,332** ★
+### 19. [Polymarket/agents](https://github.com/Polymarket/agents) — **3,332** ★
 
 **URL:** https://github.com/Polymarket/agents  
 
@@ -256,7 +232,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 22. [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis) — **3,081** ★
+### 20. [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis) — **3,081** ★
 
 **URL:** https://github.com/Jon-Becker/prediction-market-analysis  
 
@@ -268,7 +244,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 23. [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) — **2,373** ★
+### 21. [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) — **2,373** ★
 
 **URL:** https://github.com/brokermr810/QuantDinger  
 
@@ -280,7 +256,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 24. [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt) — **1,622** ★
+### 22. [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt) — **1,622** ★
 
 **URL:** https://github.com/pmxt-dev/pmxt  
 
@@ -292,7 +268,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 25. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) — **1,120** ★
+### 23. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) — **1,120** ★
 
 **URL:** https://github.com/tradermonty/claude-trading-skills  
 
@@ -305,7 +281,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 26. [warproxxx/poly-maker](https://github.com/warproxxx/poly-maker) — **1,112** ★
+### 24. [warproxxx/poly-maker](https://github.com/warproxxx/poly-maker) — **1,112** ★
 
 **URL:** https://github.com/warproxxx/poly-maker  
 
@@ -317,7 +293,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 27. [ent0n29/polybot](https://github.com/ent0n29/polybot) — **483** ★
+### 25. [ent0n29/polybot](https://github.com/ent0n29/polybot) — **483** ★
 
 **URL:** https://github.com/ent0n29/polybot  
 
@@ -329,7 +305,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 28. [Polymarket/poly-market-maker](https://github.com/Polymarket/poly-market-maker) — **282** ★
+### 26. [Polymarket/poly-market-maker](https://github.com/Polymarket/poly-market-maker) — **282** ★
 
 **URL:** https://github.com/Polymarket/poly-market-maker  
 
@@ -341,7 +317,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 29. [pselamy/polymarket-insider-tracker](https://github.com/pselamy/polymarket-insider-tracker) — **112** ★
+### 27. [pselamy/polymarket-insider-tracker](https://github.com/pselamy/polymarket-insider-tracker) — **112** ★
 
 **URL:** https://github.com/pselamy/polymarket-insider-tracker  
 
@@ -353,7 +329,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 30. [NickNaskida/polymarket-insider-bot](https://github.com/NickNaskida/polymarket-insider-bot) — **25** ★
+### 28. [NickNaskida/polymarket-insider-bot](https://github.com/NickNaskida/polymarket-insider-bot) — **25** ★
 
 **URL:** https://github.com/NickNaskida/polymarket-insider-bot  
 
@@ -365,7 +341,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 31. [suislanchez/polymarket-insider-detector](https://github.com/suislanchez/polymarket-insider-detector) — **13** ★
+### 29. [suislanchez/polymarket-insider-detector](https://github.com/suislanchez/polymarket-insider-detector) — **13** ★
 
 **URL:** https://github.com/suislanchez/polymarket-insider-detector  
 
@@ -377,7 +353,7 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
-### 32. [BRKME/Polymarket_insider](https://github.com/BRKME/Polymarket_insider) — **10** ★
+### 30. [BRKME/Polymarket_insider](https://github.com/BRKME/Polymarket_insider) — **10** ★
 
 **URL:** https://github.com/BRKME/Polymarket_insider  
 
@@ -389,11 +365,39 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 ---
 
+## General research
+
+Agent libraries and packaged skills aimed at **broad finance-adjacent research and analysis**—not primarily execution, market-making, or bot stacks. Sorted by ★ within this subsection.
+
+### G1. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — **87,900** ★
+
+**URL:** https://github.com/msitarzewski/agency-agents  
+
+**About:** A complete AI agency at your fingertips—specialized agent roles (engineering, Reddit/community, QA, whimsy injection, reality checks), each with process and deliverable templates.
+
+**Summary:** Large library of Claude/OpenClaw-oriented “agency” personas and playbooks—general-purpose rather than trading-focused; huge README-backed catalog (~147 agents referenced in README).
+
+**Cited in:** [^7]
+
+---
+
+### G2. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — **19,597** ★
+
+**URL:** https://github.com/K-Dense-AI/scientific-agent-skills  
+
+**About:** Ready-to-use agent skills for research, science, engineering, analysis, finance, and writing.  
+
+**Summary:** Packaged skills usable with Claude-compatible agent setups—not a pricing/trading stack; aimed at repeatable research/analysis workflows including finance-themed skills. Roundup prose pointed at an `anthropic*/claude-scientific-skills`-style slug; canonical repo appears under **K-Dense-AI**.  
+
+**Cited in:** [^5]
+
+---
+
 ## Footnotes
 
-[^roundups]: Primary lists from [@gusik4ever](https://x.com/gusik4ever) ([^1]–[^5]), plus [^6] from [@ventry089](https://x.com/ventry089), plus explicit curator additions ([^7], [^8]).
+[^roundups]: Primary lists from [@gusik4ever](https://x.com/gusik4ever) ([^1]–[^5]), plus [^6] from [@ventry089](https://x.com/ventry089), plus explicit curator additions ([^7], [^8]). The **General financial research** subsection groups repos that foreground research and agent tooling rather than trading execution—they stay ordered by ★ within that subsection.
 
-[^7]: [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) —added to this page directly (not sourced from [^1]–[^6]).
+[^7]: [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) —added to this page directly (not sourced from [^1]–[^6]); grouped under **General financial research (not trading-specific)** rather than the star-ranked main list.
 
 [^1]: Mar 28, 2026 — [status](https://x.com/gusik4ever/status/2037869910827618393) · [variant link](https://x.com/gusik4ever/status/2037869910827618393?s=43&t=Ef-kmpb-7ChZ6a_QgivsCA).
 
@@ -403,12 +407,12 @@ Repositories surfaced in curated **X** threads and hand-picked additions[^roundu
 
 [^4]: <https://x.com/gusik4ever/status/2042598717895713036>.
 
-[^5]: Earlier Apr 2026 — <https://x.com/gusik4ever/status/2040399182817788071>. The post used labels that often don’t match live GitHub paths (examples: **`disler`/…/`mvanhorn`** for the same **last30days-skill**, **`furutech`/…** vs **`ZhuLinsen`/…**, **`TauricResearch`/TradingAgents-CN** vs **`hsliuping`/…**, **`anthropics`/claude-scientific-skills** vs **`K-Dense-AI`/scientific-agent-skills**, **`valuecell`/`valuecell`** vs **`ValueCell-ai`/valuecell**, **`e2b-dev`/…** vs **`ashishpatel26`/…**). Only canonical repos are listed above.
+[^5]: Earlier Apr 2026 — <https://x.com/gusik4ever/status/2040399182817788071>. The post used labels that often don’t match live GitHub paths (examples: **`disler`/…/`mvanhorn`** for the same **last30days-skill**, **`furutech`/…** vs **`ZhuLinsen`/…**, **`TauricResearch`/TradingAgents-CN** vs **`hsliuping`/…**, **`anthropics`/claude-scientific-skills** vs **`K-Dense-AI`/scientific-agent-skills**, **`valuecell`/`valuecell`** vs **`ValueCell-ai`/valuecell**, **`e2b-dev`/…** vs **`ashishpatel26`/…**). Only canonical repos are listed on this page (**`K-Dense-AI`/scientific-agent-skills** appears under **General financial research** below).
 
 [^6]: [@ventry089](https://x.com/ventry089), <https://x.com/ventry089/status/2048806850741600603>—video post; **`t.co` redirects** resolved to the eight rows above with **Cited in:** `[^6]` only. A ninth short link aimed at **`learningworship`/polymarket-latency-bot** returned **404** on GitHub when verified (not listed).
 
 [^8]: [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) —same as [^7] (direct add to this page).
 
-[^stars]: `stargazers_count` via the public [GitHub REST API](https://docs.github.com/en/rest/repos/repos#get-a-repository), or README-scraped ★ where the API was throttled—last reorganized together with **`[^6]`** / **`[^7]`** / **`[^8]`** entries.
+[^stars]: `stargazers_count` via the public [GitHub REST API](https://docs.github.com/en/rest/repos/repos#get-a-repository), or README-scraped ★ where the API was throttled—last reorganized together with **`[^6]`** / **`[^7]`** / **`[^8]`** entries and the **General research** split-out subsection.
 
 [^repos]: “About” lines follow each repository’s public GitHub short description where noted; wording on GitHub may change after this file is saved.
