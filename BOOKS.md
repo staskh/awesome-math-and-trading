@@ -155,6 +155,9 @@ The options market is always changing, and in order to keep up with it you need 
 
 # Algorithmic Trading
 
+* 🔥 [Machine Learning for Trading, 3rd Edition](https://amzn.to/4eigy2F) _By Stefan Jansen_ (2026) Build and deploy AI-driven trading systems using the 7-Stage workflow with pandas, Polars, LightGBM, PyTorch, Optuna, zipline-reloaded, MLflow, Feast, and SHAP
+  * [Notebooks, Case Studies](https://github.com/stefan-jansen/machine-learning-for-trading) Excellent self-study content
+
 * [Python for Algorithmic Trading Cookbook](https://amzn.to/48NQdWc) _By Jason Strimpel_ (2024) Harness the power of Python libraries to transform freely available financial market data into algorithmic trading strategies and deploy them into a live trading environment.
   * [Notebooks, Examples, etc](https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook)
 
