@@ -18,3 +18,5 @@ Quant/Algorithm trading resources with an emphasis on Machine Learning.
 
 * [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
+* [AI Quant Nav](https://aiquantnav.com/en) Free EN/ZH directory of open-source AI quant and trading tools, with maintained comparison pages for backtesting frameworks, market-data libraries, portfolio optimizers, and LLM trading agents.
+
