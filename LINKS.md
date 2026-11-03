@@ -18,3 +18,4 @@ Quant/Algorithm trading resources with an emphasis on Machine Learning.
 
 * [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
+* [Trading Compendium – Trading Mathematics](https://tradingcompendium.com/en/trading-mathematics) Free articles with worked examples on trading expectancy, position sizing, the Kelly criterion, risk of ruin, compounding and why backtests diverge from live results.
