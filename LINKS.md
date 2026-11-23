@@ -18,3 +18,4 @@ Quant/Algorithm trading resources with an emphasis on Machine Learning.
 
 * [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
+* [Out of sample, holdouts and walk-forward testing](https://estockes.com/education/backtesting-and-validation/out-of-sample-and-walk-forward) — Free lesson on chronological validation, overlapping outcome windows, and parameter stability across folds.
